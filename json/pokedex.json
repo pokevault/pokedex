@@ -1,0 +1,6963 @@
+[
+    {
+        "pokedex_number": 1,
+        "species": "bulbasaur",
+        "name": "Bulbasaur",
+        "forms": []
+    },
+    {
+        "pokedex_number": 2,
+        "species": "ivysaur",
+        "name": "Ivysaur",
+        "forms": []
+    },
+    {
+        "pokedex_number": 3,
+        "species": "venusaur",
+        "name": "Venusaur",
+        "forms": [
+            "venusaur-mega",
+            "venusaur-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 4,
+        "species": "charmander",
+        "name": "Charmander",
+        "forms": []
+    },
+    {
+        "pokedex_number": 5,
+        "species": "charmeleon",
+        "name": "Charmeleon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 6,
+        "species": "charizard",
+        "name": "Charizard",
+        "forms": [
+            "charizard-mega-x",
+            "charizard-mega-y",
+            "charizard-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 7,
+        "species": "squirtle",
+        "name": "Squirtle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 8,
+        "species": "wartortle",
+        "name": "Wartortle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 9,
+        "species": "blastoise",
+        "name": "Blastoise",
+        "forms": [
+            "blastoise-mega",
+            "blastoise-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 10,
+        "species": "caterpie",
+        "name": "Caterpie",
+        "forms": []
+    },
+    {
+        "pokedex_number": 11,
+        "species": "metapod",
+        "name": "Metapod",
+        "forms": []
+    },
+    {
+        "pokedex_number": 12,
+        "species": "butterfree",
+        "name": "Butterfree",
+        "forms": [
+            "butterfree-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 13,
+        "species": "weedle",
+        "name": "Weedle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 14,
+        "species": "kakuna",
+        "name": "Kakuna",
+        "forms": []
+    },
+    {
+        "pokedex_number": 15,
+        "species": "beedrill",
+        "name": "Beedrill",
+        "forms": [
+            "beedrill-mega"
+        ]
+    },
+    {
+        "pokedex_number": 16,
+        "species": "pidgey",
+        "name": "Pidgey",
+        "forms": []
+    },
+    {
+        "pokedex_number": 17,
+        "species": "pidgeotto",
+        "name": "Pidgeotto",
+        "forms": []
+    },
+    {
+        "pokedex_number": 18,
+        "species": "pidgeot",
+        "name": "Pidgeot",
+        "forms": [
+            "pidgeot-mega"
+        ]
+    },
+    {
+        "pokedex_number": 19,
+        "species": "rattata",
+        "name": "Rattata",
+        "forms": [
+            "rattata-alola"
+        ]
+    },
+    {
+        "pokedex_number": 20,
+        "species": "raticate",
+        "name": "Raticate",
+        "forms": [
+            "raticate-alola",
+            "raticate-totem-alola"
+        ]
+    },
+    {
+        "pokedex_number": 21,
+        "species": "spearow",
+        "name": "Spearow",
+        "forms": []
+    },
+    {
+        "pokedex_number": 22,
+        "species": "fearow",
+        "name": "Fearow",
+        "forms": []
+    },
+    {
+        "pokedex_number": 23,
+        "species": "ekans",
+        "name": "Ekans",
+        "forms": []
+    },
+    {
+        "pokedex_number": 24,
+        "species": "arbok",
+        "name": "Arbok",
+        "forms": []
+    },
+    {
+        "pokedex_number": 25,
+        "species": "pikachu",
+        "name": "Pikachu",
+        "forms": [
+            "pikachu-rock-star",
+            "pikachu-belle",
+            "pikachu-pop-star",
+            "pikachu-phd",
+            "pikachu-libre",
+            "pikachu-cosplay",
+            "pikachu-original-cap",
+            "pikachu-hoenn-cap",
+            "pikachu-sinnoh-cap",
+            "pikachu-unova-cap",
+            "pikachu-kalos-cap",
+            "pikachu-alola-cap",
+            "pikachu-partner-cap",
+            "pikachu-starter",
+            "pikachu-world-cap",
+            "pikachu-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 26,
+        "species": "raichu",
+        "name": "Raichu",
+        "forms": [
+            "raichu-alola"
+        ]
+    },
+    {
+        "pokedex_number": 27,
+        "species": "sandshrew",
+        "name": "Sandshrew",
+        "forms": [
+            "sandshrew-alola"
+        ]
+    },
+    {
+        "pokedex_number": 28,
+        "species": "sandslash",
+        "name": "Sandslash",
+        "forms": [
+            "sandslash-alola"
+        ]
+    },
+    {
+        "pokedex_number": 29,
+        "species": "nidoran-f",
+        "name": "Nidoran♀",
+        "forms": []
+    },
+    {
+        "pokedex_number": 30,
+        "species": "nidorina",
+        "name": "Nidorina",
+        "forms": []
+    },
+    {
+        "pokedex_number": 31,
+        "species": "nidoqueen",
+        "name": "Nidoqueen",
+        "forms": []
+    },
+    {
+        "pokedex_number": 32,
+        "species": "nidoran-m",
+        "name": "Nidoran♂",
+        "forms": []
+    },
+    {
+        "pokedex_number": 33,
+        "species": "nidorino",
+        "name": "Nidorino",
+        "forms": []
+    },
+    {
+        "pokedex_number": 34,
+        "species": "nidoking",
+        "name": "Nidoking",
+        "forms": []
+    },
+    {
+        "pokedex_number": 35,
+        "species": "clefairy",
+        "name": "Clefairy",
+        "forms": []
+    },
+    {
+        "pokedex_number": 36,
+        "species": "clefable",
+        "name": "Clefable",
+        "forms": []
+    },
+    {
+        "pokedex_number": 37,
+        "species": "vulpix",
+        "name": "Vulpix",
+        "forms": [
+            "vulpix-alola"
+        ]
+    },
+    {
+        "pokedex_number": 38,
+        "species": "ninetales",
+        "name": "Ninetales",
+        "forms": [
+            "ninetales-alola"
+        ]
+    },
+    {
+        "pokedex_number": 39,
+        "species": "jigglypuff",
+        "name": "Jigglypuff",
+        "forms": []
+    },
+    {
+        "pokedex_number": 40,
+        "species": "wigglytuff",
+        "name": "Wigglytuff",
+        "forms": []
+    },
+    {
+        "pokedex_number": 41,
+        "species": "zubat",
+        "name": "Zubat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 42,
+        "species": "golbat",
+        "name": "Golbat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 43,
+        "species": "oddish",
+        "name": "Oddish",
+        "forms": []
+    },
+    {
+        "pokedex_number": 44,
+        "species": "gloom",
+        "name": "Gloom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 45,
+        "species": "vileplume",
+        "name": "Vileplume",
+        "forms": []
+    },
+    {
+        "pokedex_number": 46,
+        "species": "paras",
+        "name": "Paras",
+        "forms": []
+    },
+    {
+        "pokedex_number": 47,
+        "species": "parasect",
+        "name": "Parasect",
+        "forms": []
+    },
+    {
+        "pokedex_number": 48,
+        "species": "venonat",
+        "name": "Venonat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 49,
+        "species": "venomoth",
+        "name": "Venomoth",
+        "forms": []
+    },
+    {
+        "pokedex_number": 50,
+        "species": "diglett",
+        "name": "Diglett",
+        "forms": [
+            "diglett-alola"
+        ]
+    },
+    {
+        "pokedex_number": 51,
+        "species": "dugtrio",
+        "name": "Dugtrio",
+        "forms": [
+            "dugtrio-alola"
+        ]
+    },
+    {
+        "pokedex_number": 52,
+        "species": "meowth",
+        "name": "Meowth",
+        "forms": [
+            "meowth-alola",
+            "meowth-galar",
+            "meowth-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 53,
+        "species": "persian",
+        "name": "Persian",
+        "forms": [
+            "persian-alola"
+        ]
+    },
+    {
+        "pokedex_number": 54,
+        "species": "psyduck",
+        "name": "Psyduck",
+        "forms": []
+    },
+    {
+        "pokedex_number": 55,
+        "species": "golduck",
+        "name": "Golduck",
+        "forms": []
+    },
+    {
+        "pokedex_number": 56,
+        "species": "mankey",
+        "name": "Mankey",
+        "forms": []
+    },
+    {
+        "pokedex_number": 57,
+        "species": "primeape",
+        "name": "Primeape",
+        "forms": []
+    },
+    {
+        "pokedex_number": 58,
+        "species": "growlithe",
+        "name": "Growlithe",
+        "forms": [
+            "growlithe-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 59,
+        "species": "arcanine",
+        "name": "Arcanine",
+        "forms": [
+            "arcanine-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 60,
+        "species": "poliwag",
+        "name": "Poliwag",
+        "forms": []
+    },
+    {
+        "pokedex_number": 61,
+        "species": "poliwhirl",
+        "name": "Poliwhirl",
+        "forms": []
+    },
+    {
+        "pokedex_number": 62,
+        "species": "poliwrath",
+        "name": "Poliwrath",
+        "forms": []
+    },
+    {
+        "pokedex_number": 63,
+        "species": "abra",
+        "name": "Abra",
+        "forms": []
+    },
+    {
+        "pokedex_number": 64,
+        "species": "kadabra",
+        "name": "Kadabra",
+        "forms": []
+    },
+    {
+        "pokedex_number": 65,
+        "species": "alakazam",
+        "name": "Alakazam",
+        "forms": [
+            "alakazam-mega"
+        ]
+    },
+    {
+        "pokedex_number": 66,
+        "species": "machop",
+        "name": "Machop",
+        "forms": []
+    },
+    {
+        "pokedex_number": 67,
+        "species": "machoke",
+        "name": "Machoke",
+        "forms": []
+    },
+    {
+        "pokedex_number": 68,
+        "species": "machamp",
+        "name": "Machamp",
+        "forms": [
+            "machamp-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 69,
+        "species": "bellsprout",
+        "name": "Bellsprout",
+        "forms": []
+    },
+    {
+        "pokedex_number": 70,
+        "species": "weepinbell",
+        "name": "Weepinbell",
+        "forms": []
+    },
+    {
+        "pokedex_number": 71,
+        "species": "victreebel",
+        "name": "Victreebel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 72,
+        "species": "tentacool",
+        "name": "Tentacool",
+        "forms": []
+    },
+    {
+        "pokedex_number": 73,
+        "species": "tentacruel",
+        "name": "Tentacruel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 74,
+        "species": "geodude",
+        "name": "Geodude",
+        "forms": [
+            "geodude-alola"
+        ]
+    },
+    {
+        "pokedex_number": 75,
+        "species": "graveler",
+        "name": "Graveler",
+        "forms": [
+            "graveler-alola"
+        ]
+    },
+    {
+        "pokedex_number": 76,
+        "species": "golem",
+        "name": "Golem",
+        "forms": [
+            "golem-alola"
+        ]
+    },
+    {
+        "pokedex_number": 77,
+        "species": "ponyta",
+        "name": "Ponyta",
+        "forms": [
+            "ponyta-galar"
+        ]
+    },
+    {
+        "pokedex_number": 78,
+        "species": "rapidash",
+        "name": "Rapidash",
+        "forms": [
+            "rapidash-galar"
+        ]
+    },
+    {
+        "pokedex_number": 79,
+        "species": "slowpoke",
+        "name": "Slowpoke",
+        "forms": [
+            "slowpoke-galar"
+        ]
+    },
+    {
+        "pokedex_number": 80,
+        "species": "slowbro",
+        "name": "Slowbro",
+        "forms": [
+            "slowbro-mega",
+            "slowbro-galar"
+        ]
+    },
+    {
+        "pokedex_number": 81,
+        "species": "magnemite",
+        "name": "Magnemite",
+        "forms": []
+    },
+    {
+        "pokedex_number": 82,
+        "species": "magneton",
+        "name": "Magneton",
+        "forms": []
+    },
+    {
+        "pokedex_number": 83,
+        "species": "farfetchd",
+        "name": "Farfetch’d",
+        "forms": [
+            "farfetchd-galar"
+        ]
+    },
+    {
+        "pokedex_number": 84,
+        "species": "doduo",
+        "name": "Doduo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 85,
+        "species": "dodrio",
+        "name": "Dodrio",
+        "forms": []
+    },
+    {
+        "pokedex_number": 86,
+        "species": "seel",
+        "name": "Seel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 87,
+        "species": "dewgong",
+        "name": "Dewgong",
+        "forms": []
+    },
+    {
+        "pokedex_number": 88,
+        "species": "grimer",
+        "name": "Grimer",
+        "forms": [
+            "grimer-alola"
+        ]
+    },
+    {
+        "pokedex_number": 89,
+        "species": "muk",
+        "name": "Muk",
+        "forms": [
+            "muk-alola"
+        ]
+    },
+    {
+        "pokedex_number": 90,
+        "species": "shellder",
+        "name": "Shellder",
+        "forms": []
+    },
+    {
+        "pokedex_number": 91,
+        "species": "cloyster",
+        "name": "Cloyster",
+        "forms": []
+    },
+    {
+        "pokedex_number": 92,
+        "species": "gastly",
+        "name": "Gastly",
+        "forms": []
+    },
+    {
+        "pokedex_number": 93,
+        "species": "haunter",
+        "name": "Haunter",
+        "forms": []
+    },
+    {
+        "pokedex_number": 94,
+        "species": "gengar",
+        "name": "Gengar",
+        "forms": [
+            "gengar-mega",
+            "gengar-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 95,
+        "species": "onix",
+        "name": "Onix",
+        "forms": []
+    },
+    {
+        "pokedex_number": 96,
+        "species": "drowzee",
+        "name": "Drowzee",
+        "forms": []
+    },
+    {
+        "pokedex_number": 97,
+        "species": "hypno",
+        "name": "Hypno",
+        "forms": []
+    },
+    {
+        "pokedex_number": 98,
+        "species": "krabby",
+        "name": "Krabby",
+        "forms": []
+    },
+    {
+        "pokedex_number": 99,
+        "species": "kingler",
+        "name": "Kingler",
+        "forms": [
+            "kingler-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 100,
+        "species": "voltorb",
+        "name": "Voltorb",
+        "forms": [
+            "voltorb-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 101,
+        "species": "electrode",
+        "name": "Electrode",
+        "forms": [
+            "electrode-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 102,
+        "species": "exeggcute",
+        "name": "Exeggcute",
+        "forms": []
+    },
+    {
+        "pokedex_number": 103,
+        "species": "exeggutor",
+        "name": "Exeggutor",
+        "forms": [
+            "exeggutor-alola"
+        ]
+    },
+    {
+        "pokedex_number": 104,
+        "species": "cubone",
+        "name": "Cubone",
+        "forms": []
+    },
+    {
+        "pokedex_number": 105,
+        "species": "marowak",
+        "name": "Marowak",
+        "forms": [
+            "marowak-alola",
+            "marowak-totem"
+        ]
+    },
+    {
+        "pokedex_number": 106,
+        "species": "hitmonlee",
+        "name": "Hitmonlee",
+        "forms": []
+    },
+    {
+        "pokedex_number": 107,
+        "species": "hitmonchan",
+        "name": "Hitmonchan",
+        "forms": []
+    },
+    {
+        "pokedex_number": 108,
+        "species": "lickitung",
+        "name": "Lickitung",
+        "forms": []
+    },
+    {
+        "pokedex_number": 109,
+        "species": "koffing",
+        "name": "Koffing",
+        "forms": []
+    },
+    {
+        "pokedex_number": 110,
+        "species": "weezing",
+        "name": "Weezing",
+        "forms": [
+            "weezing-galar"
+        ]
+    },
+    {
+        "pokedex_number": 111,
+        "species": "rhyhorn",
+        "name": "Rhyhorn",
+        "forms": []
+    },
+    {
+        "pokedex_number": 112,
+        "species": "rhydon",
+        "name": "Rhydon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 113,
+        "species": "chansey",
+        "name": "Chansey",
+        "forms": []
+    },
+    {
+        "pokedex_number": 114,
+        "species": "tangela",
+        "name": "Tangela",
+        "forms": []
+    },
+    {
+        "pokedex_number": 115,
+        "species": "kangaskhan",
+        "name": "Kangaskhan",
+        "forms": [
+            "kangaskhan-mega"
+        ]
+    },
+    {
+        "pokedex_number": 116,
+        "species": "horsea",
+        "name": "Horsea",
+        "forms": []
+    },
+    {
+        "pokedex_number": 117,
+        "species": "seadra",
+        "name": "Seadra",
+        "forms": []
+    },
+    {
+        "pokedex_number": 118,
+        "species": "goldeen",
+        "name": "Goldeen",
+        "forms": []
+    },
+    {
+        "pokedex_number": 119,
+        "species": "seaking",
+        "name": "Seaking",
+        "forms": []
+    },
+    {
+        "pokedex_number": 120,
+        "species": "staryu",
+        "name": "Staryu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 121,
+        "species": "starmie",
+        "name": "Starmie",
+        "forms": []
+    },
+    {
+        "pokedex_number": 122,
+        "species": "mr-mime",
+        "name": "Mr. Mime",
+        "forms": [
+            "mr-mime-galar"
+        ]
+    },
+    {
+        "pokedex_number": 123,
+        "species": "scyther",
+        "name": "Scyther",
+        "forms": []
+    },
+    {
+        "pokedex_number": 124,
+        "species": "jynx",
+        "name": "Jynx",
+        "forms": []
+    },
+    {
+        "pokedex_number": 125,
+        "species": "electabuzz",
+        "name": "Electabuzz",
+        "forms": []
+    },
+    {
+        "pokedex_number": 126,
+        "species": "magmar",
+        "name": "Magmar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 127,
+        "species": "pinsir",
+        "name": "Pinsir",
+        "forms": [
+            "pinsir-mega"
+        ]
+    },
+    {
+        "pokedex_number": 128,
+        "species": "tauros",
+        "name": "Tauros",
+        "forms": [
+            "tauros-paldea-combat",
+            "tauros-paldea-blaze",
+            "tauros-paldea-aqua"
+        ]
+    },
+    {
+        "pokedex_number": 129,
+        "species": "magikarp",
+        "name": "Magikarp",
+        "forms": []
+    },
+    {
+        "pokedex_number": 130,
+        "species": "gyarados",
+        "name": "Gyarados",
+        "forms": [
+            "gyarados-mega"
+        ]
+    },
+    {
+        "pokedex_number": 131,
+        "species": "lapras",
+        "name": "Lapras",
+        "forms": [
+            "lapras-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 132,
+        "species": "ditto",
+        "name": "Ditto",
+        "forms": []
+    },
+    {
+        "pokedex_number": 133,
+        "species": "eevee",
+        "name": "Eevee",
+        "forms": [
+            "eevee-starter",
+            "eevee-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 134,
+        "species": "vaporeon",
+        "name": "Vaporeon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 135,
+        "species": "jolteon",
+        "name": "Jolteon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 136,
+        "species": "flareon",
+        "name": "Flareon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 137,
+        "species": "porygon",
+        "name": "Porygon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 138,
+        "species": "omanyte",
+        "name": "Omanyte",
+        "forms": []
+    },
+    {
+        "pokedex_number": 139,
+        "species": "omastar",
+        "name": "Omastar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 140,
+        "species": "kabuto",
+        "name": "Kabuto",
+        "forms": []
+    },
+    {
+        "pokedex_number": 141,
+        "species": "kabutops",
+        "name": "Kabutops",
+        "forms": []
+    },
+    {
+        "pokedex_number": 142,
+        "species": "aerodactyl",
+        "name": "Aerodactyl",
+        "forms": [
+            "aerodactyl-mega"
+        ]
+    },
+    {
+        "pokedex_number": 143,
+        "species": "snorlax",
+        "name": "Snorlax",
+        "forms": [
+            "snorlax-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 144,
+        "species": "articuno",
+        "name": "Articuno",
+        "forms": [
+            "articuno-galar"
+        ]
+    },
+    {
+        "pokedex_number": 145,
+        "species": "zapdos",
+        "name": "Zapdos",
+        "forms": [
+            "zapdos-galar"
+        ]
+    },
+    {
+        "pokedex_number": 146,
+        "species": "moltres",
+        "name": "Moltres",
+        "forms": [
+            "moltres-galar"
+        ]
+    },
+    {
+        "pokedex_number": 147,
+        "species": "dratini",
+        "name": "Dratini",
+        "forms": []
+    },
+    {
+        "pokedex_number": 148,
+        "species": "dragonair",
+        "name": "Dragonair",
+        "forms": []
+    },
+    {
+        "pokedex_number": 149,
+        "species": "dragonite",
+        "name": "Dragonite",
+        "forms": []
+    },
+    {
+        "pokedex_number": 150,
+        "species": "mewtwo",
+        "name": "Mewtwo",
+        "forms": [
+            "mewtwo-mega-x",
+            "mewtwo-mega-y"
+        ]
+    },
+    {
+        "pokedex_number": 151,
+        "species": "mew",
+        "name": "Mew",
+        "forms": []
+    },
+    {
+        "pokedex_number": 152,
+        "species": "chikorita",
+        "name": "Chikorita",
+        "forms": []
+    },
+    {
+        "pokedex_number": 153,
+        "species": "bayleef",
+        "name": "Bayleef",
+        "forms": []
+    },
+    {
+        "pokedex_number": 154,
+        "species": "meganium",
+        "name": "Meganium",
+        "forms": []
+    },
+    {
+        "pokedex_number": 155,
+        "species": "cyndaquil",
+        "name": "Cyndaquil",
+        "forms": []
+    },
+    {
+        "pokedex_number": 156,
+        "species": "quilava",
+        "name": "Quilava",
+        "forms": []
+    },
+    {
+        "pokedex_number": 157,
+        "species": "typhlosion",
+        "name": "Typhlosion",
+        "forms": [
+            "typhlosion-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 158,
+        "species": "totodile",
+        "name": "Totodile",
+        "forms": []
+    },
+    {
+        "pokedex_number": 159,
+        "species": "croconaw",
+        "name": "Croconaw",
+        "forms": []
+    },
+    {
+        "pokedex_number": 160,
+        "species": "feraligatr",
+        "name": "Feraligatr",
+        "forms": []
+    },
+    {
+        "pokedex_number": 161,
+        "species": "sentret",
+        "name": "Sentret",
+        "forms": []
+    },
+    {
+        "pokedex_number": 162,
+        "species": "furret",
+        "name": "Furret",
+        "forms": []
+    },
+    {
+        "pokedex_number": 163,
+        "species": "hoothoot",
+        "name": "Hoothoot",
+        "forms": []
+    },
+    {
+        "pokedex_number": 164,
+        "species": "noctowl",
+        "name": "Noctowl",
+        "forms": []
+    },
+    {
+        "pokedex_number": 165,
+        "species": "ledyba",
+        "name": "Ledyba",
+        "forms": []
+    },
+    {
+        "pokedex_number": 166,
+        "species": "ledian",
+        "name": "Ledian",
+        "forms": []
+    },
+    {
+        "pokedex_number": 167,
+        "species": "spinarak",
+        "name": "Spinarak",
+        "forms": []
+    },
+    {
+        "pokedex_number": 168,
+        "species": "ariados",
+        "name": "Ariados",
+        "forms": []
+    },
+    {
+        "pokedex_number": 169,
+        "species": "crobat",
+        "name": "Crobat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 170,
+        "species": "chinchou",
+        "name": "Chinchou",
+        "forms": []
+    },
+    {
+        "pokedex_number": 171,
+        "species": "lanturn",
+        "name": "Lanturn",
+        "forms": []
+    },
+    {
+        "pokedex_number": 172,
+        "species": "pichu",
+        "name": "Pichu",
+        "forms": [
+            "pichu-spiky-eared"
+        ]
+    },
+    {
+        "pokedex_number": 173,
+        "species": "cleffa",
+        "name": "Cleffa",
+        "forms": []
+    },
+    {
+        "pokedex_number": 174,
+        "species": "igglybuff",
+        "name": "Igglybuff",
+        "forms": []
+    },
+    {
+        "pokedex_number": 175,
+        "species": "togepi",
+        "name": "Togepi",
+        "forms": []
+    },
+    {
+        "pokedex_number": 176,
+        "species": "togetic",
+        "name": "Togetic",
+        "forms": []
+    },
+    {
+        "pokedex_number": 177,
+        "species": "natu",
+        "name": "Natu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 178,
+        "species": "xatu",
+        "name": "Xatu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 179,
+        "species": "mareep",
+        "name": "Mareep",
+        "forms": []
+    },
+    {
+        "pokedex_number": 180,
+        "species": "flaaffy",
+        "name": "Flaaffy",
+        "forms": []
+    },
+    {
+        "pokedex_number": 181,
+        "species": "ampharos",
+        "name": "Ampharos",
+        "forms": [
+            "ampharos-mega"
+        ]
+    },
+    {
+        "pokedex_number": 182,
+        "species": "bellossom",
+        "name": "Bellossom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 183,
+        "species": "marill",
+        "name": "Marill",
+        "forms": []
+    },
+    {
+        "pokedex_number": 184,
+        "species": "azumarill",
+        "name": "Azumarill",
+        "forms": []
+    },
+    {
+        "pokedex_number": 185,
+        "species": "sudowoodo",
+        "name": "Sudowoodo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 186,
+        "species": "politoed",
+        "name": "Politoed",
+        "forms": []
+    },
+    {
+        "pokedex_number": 187,
+        "species": "hoppip",
+        "name": "Hoppip",
+        "forms": []
+    },
+    {
+        "pokedex_number": 188,
+        "species": "skiploom",
+        "name": "Skiploom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 189,
+        "species": "jumpluff",
+        "name": "Jumpluff",
+        "forms": []
+    },
+    {
+        "pokedex_number": 190,
+        "species": "aipom",
+        "name": "Aipom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 191,
+        "species": "sunkern",
+        "name": "Sunkern",
+        "forms": []
+    },
+    {
+        "pokedex_number": 192,
+        "species": "sunflora",
+        "name": "Sunflora",
+        "forms": []
+    },
+    {
+        "pokedex_number": 193,
+        "species": "yanma",
+        "name": "Yanma",
+        "forms": []
+    },
+    {
+        "pokedex_number": 194,
+        "species": "wooper",
+        "name": "Wooper",
+        "forms": [
+            "wooper-paldea"
+        ]
+    },
+    {
+        "pokedex_number": 195,
+        "species": "quagsire",
+        "name": "Quagsire",
+        "forms": []
+    },
+    {
+        "pokedex_number": 196,
+        "species": "espeon",
+        "name": "Espeon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 197,
+        "species": "umbreon",
+        "name": "Umbreon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 198,
+        "species": "murkrow",
+        "name": "Murkrow",
+        "forms": []
+    },
+    {
+        "pokedex_number": 199,
+        "species": "slowking",
+        "name": "Slowking",
+        "forms": [
+            "slowking-galar"
+        ]
+    },
+    {
+        "pokedex_number": 200,
+        "species": "misdreavus",
+        "name": "Misdreavus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 201,
+        "species": "unown",
+        "name": "Unown",
+        "forms": [
+            "unown-a",
+            "unown-b",
+            "unown-c",
+            "unown-d",
+            "unown-e",
+            "unown-f",
+            "unown-g",
+            "unown-h",
+            "unown-i",
+            "unown-j",
+            "unown-k",
+            "unown-l",
+            "unown-m",
+            "unown-n",
+            "unown-o",
+            "unown-p",
+            "unown-q",
+            "unown-r",
+            "unown-s",
+            "unown-t",
+            "unown-u",
+            "unown-v",
+            "unown-w",
+            "unown-x",
+            "unown-y",
+            "unown-z",
+            "unown-exclamation",
+            "unown-question"
+        ]
+    },
+    {
+        "pokedex_number": 202,
+        "species": "wobbuffet",
+        "name": "Wobbuffet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 203,
+        "species": "girafarig",
+        "name": "Girafarig",
+        "forms": []
+    },
+    {
+        "pokedex_number": 204,
+        "species": "pineco",
+        "name": "Pineco",
+        "forms": []
+    },
+    {
+        "pokedex_number": 205,
+        "species": "forretress",
+        "name": "Forretress",
+        "forms": []
+    },
+    {
+        "pokedex_number": 206,
+        "species": "dunsparce",
+        "name": "Dunsparce",
+        "forms": []
+    },
+    {
+        "pokedex_number": 207,
+        "species": "gligar",
+        "name": "Gligar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 208,
+        "species": "steelix",
+        "name": "Steelix",
+        "forms": [
+            "steelix-mega"
+        ]
+    },
+    {
+        "pokedex_number": 209,
+        "species": "snubbull",
+        "name": "Snubbull",
+        "forms": []
+    },
+    {
+        "pokedex_number": 210,
+        "species": "granbull",
+        "name": "Granbull",
+        "forms": []
+    },
+    {
+        "pokedex_number": 211,
+        "species": "qwilfish",
+        "name": "Qwilfish",
+        "forms": [
+            "qwilfish-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 212,
+        "species": "scizor",
+        "name": "Scizor",
+        "forms": [
+            "scizor-mega"
+        ]
+    },
+    {
+        "pokedex_number": 213,
+        "species": "shuckle",
+        "name": "Shuckle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 214,
+        "species": "heracross",
+        "name": "Heracross",
+        "forms": [
+            "heracross-mega"
+        ]
+    },
+    {
+        "pokedex_number": 215,
+        "species": "sneasel",
+        "name": "Sneasel",
+        "forms": [
+            "sneasel-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 216,
+        "species": "teddiursa",
+        "name": "Teddiursa",
+        "forms": []
+    },
+    {
+        "pokedex_number": 217,
+        "species": "ursaring",
+        "name": "Ursaring",
+        "forms": []
+    },
+    {
+        "pokedex_number": 218,
+        "species": "slugma",
+        "name": "Slugma",
+        "forms": []
+    },
+    {
+        "pokedex_number": 219,
+        "species": "magcargo",
+        "name": "Magcargo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 220,
+        "species": "swinub",
+        "name": "Swinub",
+        "forms": []
+    },
+    {
+        "pokedex_number": 221,
+        "species": "piloswine",
+        "name": "Piloswine",
+        "forms": []
+    },
+    {
+        "pokedex_number": 222,
+        "species": "corsola",
+        "name": "Corsola",
+        "forms": [
+            "corsola-galar"
+        ]
+    },
+    {
+        "pokedex_number": 223,
+        "species": "remoraid",
+        "name": "Remoraid",
+        "forms": []
+    },
+    {
+        "pokedex_number": 224,
+        "species": "octillery",
+        "name": "Octillery",
+        "forms": []
+    },
+    {
+        "pokedex_number": 225,
+        "species": "delibird",
+        "name": "Delibird",
+        "forms": []
+    },
+    {
+        "pokedex_number": 226,
+        "species": "mantine",
+        "name": "Mantine",
+        "forms": []
+    },
+    {
+        "pokedex_number": 227,
+        "species": "skarmory",
+        "name": "Skarmory",
+        "forms": []
+    },
+    {
+        "pokedex_number": 228,
+        "species": "houndour",
+        "name": "Houndour",
+        "forms": []
+    },
+    {
+        "pokedex_number": 229,
+        "species": "houndoom",
+        "name": "Houndoom",
+        "forms": [
+            "houndoom-mega"
+        ]
+    },
+    {
+        "pokedex_number": 230,
+        "species": "kingdra",
+        "name": "Kingdra",
+        "forms": []
+    },
+    {
+        "pokedex_number": 231,
+        "species": "phanpy",
+        "name": "Phanpy",
+        "forms": []
+    },
+    {
+        "pokedex_number": 232,
+        "species": "donphan",
+        "name": "Donphan",
+        "forms": []
+    },
+    {
+        "pokedex_number": 233,
+        "species": "porygon2",
+        "name": "Porygon2",
+        "forms": []
+    },
+    {
+        "pokedex_number": 234,
+        "species": "stantler",
+        "name": "Stantler",
+        "forms": []
+    },
+    {
+        "pokedex_number": 235,
+        "species": "smeargle",
+        "name": "Smeargle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 236,
+        "species": "tyrogue",
+        "name": "Tyrogue",
+        "forms": []
+    },
+    {
+        "pokedex_number": 237,
+        "species": "hitmontop",
+        "name": "Hitmontop",
+        "forms": []
+    },
+    {
+        "pokedex_number": 238,
+        "species": "smoochum",
+        "name": "Smoochum",
+        "forms": []
+    },
+    {
+        "pokedex_number": 239,
+        "species": "elekid",
+        "name": "Elekid",
+        "forms": []
+    },
+    {
+        "pokedex_number": 240,
+        "species": "magby",
+        "name": "Magby",
+        "forms": []
+    },
+    {
+        "pokedex_number": 241,
+        "species": "miltank",
+        "name": "Miltank",
+        "forms": []
+    },
+    {
+        "pokedex_number": 242,
+        "species": "blissey",
+        "name": "Blissey",
+        "forms": []
+    },
+    {
+        "pokedex_number": 243,
+        "species": "raikou",
+        "name": "Raikou",
+        "forms": []
+    },
+    {
+        "pokedex_number": 244,
+        "species": "entei",
+        "name": "Entei",
+        "forms": []
+    },
+    {
+        "pokedex_number": 245,
+        "species": "suicune",
+        "name": "Suicune",
+        "forms": []
+    },
+    {
+        "pokedex_number": 246,
+        "species": "larvitar",
+        "name": "Larvitar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 247,
+        "species": "pupitar",
+        "name": "Pupitar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 248,
+        "species": "tyranitar",
+        "name": "Tyranitar",
+        "forms": [
+            "tyranitar-mega"
+        ]
+    },
+    {
+        "pokedex_number": 249,
+        "species": "lugia",
+        "name": "Lugia",
+        "forms": []
+    },
+    {
+        "pokedex_number": 250,
+        "species": "ho-oh",
+        "name": "Ho-Oh",
+        "forms": []
+    },
+    {
+        "pokedex_number": 251,
+        "species": "celebi",
+        "name": "Celebi",
+        "forms": []
+    },
+    {
+        "pokedex_number": 252,
+        "species": "treecko",
+        "name": "Treecko",
+        "forms": []
+    },
+    {
+        "pokedex_number": 253,
+        "species": "grovyle",
+        "name": "Grovyle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 254,
+        "species": "sceptile",
+        "name": "Sceptile",
+        "forms": [
+            "sceptile-mega"
+        ]
+    },
+    {
+        "pokedex_number": 255,
+        "species": "torchic",
+        "name": "Torchic",
+        "forms": []
+    },
+    {
+        "pokedex_number": 256,
+        "species": "combusken",
+        "name": "Combusken",
+        "forms": []
+    },
+    {
+        "pokedex_number": 257,
+        "species": "blaziken",
+        "name": "Blaziken",
+        "forms": [
+            "blaziken-mega"
+        ]
+    },
+    {
+        "pokedex_number": 258,
+        "species": "mudkip",
+        "name": "Mudkip",
+        "forms": []
+    },
+    {
+        "pokedex_number": 259,
+        "species": "marshtomp",
+        "name": "Marshtomp",
+        "forms": []
+    },
+    {
+        "pokedex_number": 260,
+        "species": "swampert",
+        "name": "Swampert",
+        "forms": [
+            "swampert-mega"
+        ]
+    },
+    {
+        "pokedex_number": 261,
+        "species": "poochyena",
+        "name": "Poochyena",
+        "forms": []
+    },
+    {
+        "pokedex_number": 262,
+        "species": "mightyena",
+        "name": "Mightyena",
+        "forms": []
+    },
+    {
+        "pokedex_number": 263,
+        "species": "zigzagoon",
+        "name": "Zigzagoon",
+        "forms": [
+            "zigzagoon-galar"
+        ]
+    },
+    {
+        "pokedex_number": 264,
+        "species": "linoone",
+        "name": "Linoone",
+        "forms": [
+            "linoone-galar"
+        ]
+    },
+    {
+        "pokedex_number": 265,
+        "species": "wurmple",
+        "name": "Wurmple",
+        "forms": []
+    },
+    {
+        "pokedex_number": 266,
+        "species": "silcoon",
+        "name": "Silcoon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 267,
+        "species": "beautifly",
+        "name": "Beautifly",
+        "forms": []
+    },
+    {
+        "pokedex_number": 268,
+        "species": "cascoon",
+        "name": "Cascoon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 269,
+        "species": "dustox",
+        "name": "Dustox",
+        "forms": []
+    },
+    {
+        "pokedex_number": 270,
+        "species": "lotad",
+        "name": "Lotad",
+        "forms": []
+    },
+    {
+        "pokedex_number": 271,
+        "species": "lombre",
+        "name": "Lombre",
+        "forms": []
+    },
+    {
+        "pokedex_number": 272,
+        "species": "ludicolo",
+        "name": "Ludicolo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 273,
+        "species": "seedot",
+        "name": "Seedot",
+        "forms": []
+    },
+    {
+        "pokedex_number": 274,
+        "species": "nuzleaf",
+        "name": "Nuzleaf",
+        "forms": []
+    },
+    {
+        "pokedex_number": 275,
+        "species": "shiftry",
+        "name": "Shiftry",
+        "forms": []
+    },
+    {
+        "pokedex_number": 276,
+        "species": "taillow",
+        "name": "Taillow",
+        "forms": []
+    },
+    {
+        "pokedex_number": 277,
+        "species": "swellow",
+        "name": "Swellow",
+        "forms": []
+    },
+    {
+        "pokedex_number": 278,
+        "species": "wingull",
+        "name": "Wingull",
+        "forms": []
+    },
+    {
+        "pokedex_number": 279,
+        "species": "pelipper",
+        "name": "Pelipper",
+        "forms": []
+    },
+    {
+        "pokedex_number": 280,
+        "species": "ralts",
+        "name": "Ralts",
+        "forms": []
+    },
+    {
+        "pokedex_number": 281,
+        "species": "kirlia",
+        "name": "Kirlia",
+        "forms": []
+    },
+    {
+        "pokedex_number": 282,
+        "species": "gardevoir",
+        "name": "Gardevoir",
+        "forms": [
+            "gardevoir-mega"
+        ]
+    },
+    {
+        "pokedex_number": 283,
+        "species": "surskit",
+        "name": "Surskit",
+        "forms": []
+    },
+    {
+        "pokedex_number": 284,
+        "species": "masquerain",
+        "name": "Masquerain",
+        "forms": []
+    },
+    {
+        "pokedex_number": 285,
+        "species": "shroomish",
+        "name": "Shroomish",
+        "forms": []
+    },
+    {
+        "pokedex_number": 286,
+        "species": "breloom",
+        "name": "Breloom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 287,
+        "species": "slakoth",
+        "name": "Slakoth",
+        "forms": []
+    },
+    {
+        "pokedex_number": 288,
+        "species": "vigoroth",
+        "name": "Vigoroth",
+        "forms": []
+    },
+    {
+        "pokedex_number": 289,
+        "species": "slaking",
+        "name": "Slaking",
+        "forms": []
+    },
+    {
+        "pokedex_number": 290,
+        "species": "nincada",
+        "name": "Nincada",
+        "forms": []
+    },
+    {
+        "pokedex_number": 291,
+        "species": "ninjask",
+        "name": "Ninjask",
+        "forms": []
+    },
+    {
+        "pokedex_number": 292,
+        "species": "shedinja",
+        "name": "Shedinja",
+        "forms": []
+    },
+    {
+        "pokedex_number": 293,
+        "species": "whismur",
+        "name": "Whismur",
+        "forms": []
+    },
+    {
+        "pokedex_number": 294,
+        "species": "loudred",
+        "name": "Loudred",
+        "forms": []
+    },
+    {
+        "pokedex_number": 295,
+        "species": "exploud",
+        "name": "Exploud",
+        "forms": []
+    },
+    {
+        "pokedex_number": 296,
+        "species": "makuhita",
+        "name": "Makuhita",
+        "forms": []
+    },
+    {
+        "pokedex_number": 297,
+        "species": "hariyama",
+        "name": "Hariyama",
+        "forms": []
+    },
+    {
+        "pokedex_number": 298,
+        "species": "azurill",
+        "name": "Azurill",
+        "forms": []
+    },
+    {
+        "pokedex_number": 299,
+        "species": "nosepass",
+        "name": "Nosepass",
+        "forms": []
+    },
+    {
+        "pokedex_number": 300,
+        "species": "skitty",
+        "name": "Skitty",
+        "forms": []
+    },
+    {
+        "pokedex_number": 301,
+        "species": "delcatty",
+        "name": "Delcatty",
+        "forms": []
+    },
+    {
+        "pokedex_number": 302,
+        "species": "sableye",
+        "name": "Sableye",
+        "forms": [
+            "sableye-mega"
+        ]
+    },
+    {
+        "pokedex_number": 303,
+        "species": "mawile",
+        "name": "Mawile",
+        "forms": [
+            "mawile-mega"
+        ]
+    },
+    {
+        "pokedex_number": 304,
+        "species": "aron",
+        "name": "Aron",
+        "forms": []
+    },
+    {
+        "pokedex_number": 305,
+        "species": "lairon",
+        "name": "Lairon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 306,
+        "species": "aggron",
+        "name": "Aggron",
+        "forms": [
+            "aggron-mega"
+        ]
+    },
+    {
+        "pokedex_number": 307,
+        "species": "meditite",
+        "name": "Meditite",
+        "forms": []
+    },
+    {
+        "pokedex_number": 308,
+        "species": "medicham",
+        "name": "Medicham",
+        "forms": [
+            "medicham-mega"
+        ]
+    },
+    {
+        "pokedex_number": 309,
+        "species": "electrike",
+        "name": "Electrike",
+        "forms": []
+    },
+    {
+        "pokedex_number": 310,
+        "species": "manectric",
+        "name": "Manectric",
+        "forms": [
+            "manectric-mega"
+        ]
+    },
+    {
+        "pokedex_number": 311,
+        "species": "plusle",
+        "name": "Plusle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 312,
+        "species": "minun",
+        "name": "Minun",
+        "forms": []
+    },
+    {
+        "pokedex_number": 313,
+        "species": "volbeat",
+        "name": "Volbeat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 314,
+        "species": "illumise",
+        "name": "Illumise",
+        "forms": []
+    },
+    {
+        "pokedex_number": 315,
+        "species": "roselia",
+        "name": "Roselia",
+        "forms": []
+    },
+    {
+        "pokedex_number": 316,
+        "species": "gulpin",
+        "name": "Gulpin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 317,
+        "species": "swalot",
+        "name": "Swalot",
+        "forms": []
+    },
+    {
+        "pokedex_number": 318,
+        "species": "carvanha",
+        "name": "Carvanha",
+        "forms": []
+    },
+    {
+        "pokedex_number": 319,
+        "species": "sharpedo",
+        "name": "Sharpedo",
+        "forms": [
+            "sharpedo-mega"
+        ]
+    },
+    {
+        "pokedex_number": 320,
+        "species": "wailmer",
+        "name": "Wailmer",
+        "forms": []
+    },
+    {
+        "pokedex_number": 321,
+        "species": "wailord",
+        "name": "Wailord",
+        "forms": []
+    },
+    {
+        "pokedex_number": 322,
+        "species": "numel",
+        "name": "Numel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 323,
+        "species": "camerupt",
+        "name": "Camerupt",
+        "forms": [
+            "camerupt-mega"
+        ]
+    },
+    {
+        "pokedex_number": 324,
+        "species": "torkoal",
+        "name": "Torkoal",
+        "forms": []
+    },
+    {
+        "pokedex_number": 325,
+        "species": "spoink",
+        "name": "Spoink",
+        "forms": []
+    },
+    {
+        "pokedex_number": 326,
+        "species": "grumpig",
+        "name": "Grumpig",
+        "forms": []
+    },
+    {
+        "pokedex_number": 327,
+        "species": "spinda",
+        "name": "Spinda",
+        "forms": []
+    },
+    {
+        "pokedex_number": 328,
+        "species": "trapinch",
+        "name": "Trapinch",
+        "forms": []
+    },
+    {
+        "pokedex_number": 329,
+        "species": "vibrava",
+        "name": "Vibrava",
+        "forms": []
+    },
+    {
+        "pokedex_number": 330,
+        "species": "flygon",
+        "name": "Flygon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 331,
+        "species": "cacnea",
+        "name": "Cacnea",
+        "forms": []
+    },
+    {
+        "pokedex_number": 332,
+        "species": "cacturne",
+        "name": "Cacturne",
+        "forms": []
+    },
+    {
+        "pokedex_number": 333,
+        "species": "swablu",
+        "name": "Swablu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 334,
+        "species": "altaria",
+        "name": "Altaria",
+        "forms": [
+            "altaria-mega"
+        ]
+    },
+    {
+        "pokedex_number": 335,
+        "species": "zangoose",
+        "name": "Zangoose",
+        "forms": []
+    },
+    {
+        "pokedex_number": 336,
+        "species": "seviper",
+        "name": "Seviper",
+        "forms": []
+    },
+    {
+        "pokedex_number": 337,
+        "species": "lunatone",
+        "name": "Lunatone",
+        "forms": []
+    },
+    {
+        "pokedex_number": 338,
+        "species": "solrock",
+        "name": "Solrock",
+        "forms": []
+    },
+    {
+        "pokedex_number": 339,
+        "species": "barboach",
+        "name": "Barboach",
+        "forms": []
+    },
+    {
+        "pokedex_number": 340,
+        "species": "whiscash",
+        "name": "Whiscash",
+        "forms": []
+    },
+    {
+        "pokedex_number": 341,
+        "species": "corphish",
+        "name": "Corphish",
+        "forms": []
+    },
+    {
+        "pokedex_number": 342,
+        "species": "crawdaunt",
+        "name": "Crawdaunt",
+        "forms": []
+    },
+    {
+        "pokedex_number": 343,
+        "species": "baltoy",
+        "name": "Baltoy",
+        "forms": []
+    },
+    {
+        "pokedex_number": 344,
+        "species": "claydol",
+        "name": "Claydol",
+        "forms": []
+    },
+    {
+        "pokedex_number": 345,
+        "species": "lileep",
+        "name": "Lileep",
+        "forms": []
+    },
+    {
+        "pokedex_number": 346,
+        "species": "cradily",
+        "name": "Cradily",
+        "forms": []
+    },
+    {
+        "pokedex_number": 347,
+        "species": "anorith",
+        "name": "Anorith",
+        "forms": []
+    },
+    {
+        "pokedex_number": 348,
+        "species": "armaldo",
+        "name": "Armaldo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 349,
+        "species": "feebas",
+        "name": "Feebas",
+        "forms": []
+    },
+    {
+        "pokedex_number": 350,
+        "species": "milotic",
+        "name": "Milotic",
+        "forms": []
+    },
+    {
+        "pokedex_number": 351,
+        "species": "castform",
+        "name": "Castform",
+        "forms": [
+            "castform-sunny",
+            "castform-rainy",
+            "castform-snowy"
+        ]
+    },
+    {
+        "pokedex_number": 352,
+        "species": "kecleon",
+        "name": "Kecleon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 353,
+        "species": "shuppet",
+        "name": "Shuppet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 354,
+        "species": "banette",
+        "name": "Banette",
+        "forms": [
+            "banette-mega"
+        ]
+    },
+    {
+        "pokedex_number": 355,
+        "species": "duskull",
+        "name": "Duskull",
+        "forms": []
+    },
+    {
+        "pokedex_number": 356,
+        "species": "dusclops",
+        "name": "Dusclops",
+        "forms": []
+    },
+    {
+        "pokedex_number": 357,
+        "species": "tropius",
+        "name": "Tropius",
+        "forms": []
+    },
+    {
+        "pokedex_number": 358,
+        "species": "chimecho",
+        "name": "Chimecho",
+        "forms": []
+    },
+    {
+        "pokedex_number": 359,
+        "species": "absol",
+        "name": "Absol",
+        "forms": [
+            "absol-mega"
+        ]
+    },
+    {
+        "pokedex_number": 360,
+        "species": "wynaut",
+        "name": "Wynaut",
+        "forms": []
+    },
+    {
+        "pokedex_number": 361,
+        "species": "snorunt",
+        "name": "Snorunt",
+        "forms": []
+    },
+    {
+        "pokedex_number": 362,
+        "species": "glalie",
+        "name": "Glalie",
+        "forms": [
+            "glalie-mega"
+        ]
+    },
+    {
+        "pokedex_number": 363,
+        "species": "spheal",
+        "name": "Spheal",
+        "forms": []
+    },
+    {
+        "pokedex_number": 364,
+        "species": "sealeo",
+        "name": "Sealeo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 365,
+        "species": "walrein",
+        "name": "Walrein",
+        "forms": []
+    },
+    {
+        "pokedex_number": 366,
+        "species": "clamperl",
+        "name": "Clamperl",
+        "forms": []
+    },
+    {
+        "pokedex_number": 367,
+        "species": "huntail",
+        "name": "Huntail",
+        "forms": []
+    },
+    {
+        "pokedex_number": 368,
+        "species": "gorebyss",
+        "name": "Gorebyss",
+        "forms": []
+    },
+    {
+        "pokedex_number": 369,
+        "species": "relicanth",
+        "name": "Relicanth",
+        "forms": []
+    },
+    {
+        "pokedex_number": 370,
+        "species": "luvdisc",
+        "name": "Luvdisc",
+        "forms": []
+    },
+    {
+        "pokedex_number": 371,
+        "species": "bagon",
+        "name": "Bagon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 372,
+        "species": "shelgon",
+        "name": "Shelgon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 373,
+        "species": "salamence",
+        "name": "Salamence",
+        "forms": [
+            "salamence-mega"
+        ]
+    },
+    {
+        "pokedex_number": 374,
+        "species": "beldum",
+        "name": "Beldum",
+        "forms": []
+    },
+    {
+        "pokedex_number": 375,
+        "species": "metang",
+        "name": "Metang",
+        "forms": []
+    },
+    {
+        "pokedex_number": 376,
+        "species": "metagross",
+        "name": "Metagross",
+        "forms": [
+            "metagross-mega"
+        ]
+    },
+    {
+        "pokedex_number": 377,
+        "species": "regirock",
+        "name": "Regirock",
+        "forms": []
+    },
+    {
+        "pokedex_number": 378,
+        "species": "regice",
+        "name": "Regice",
+        "forms": []
+    },
+    {
+        "pokedex_number": 379,
+        "species": "registeel",
+        "name": "Registeel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 380,
+        "species": "latias",
+        "name": "Latias",
+        "forms": [
+            "latias-mega"
+        ]
+    },
+    {
+        "pokedex_number": 381,
+        "species": "latios",
+        "name": "Latios",
+        "forms": [
+            "latios-mega"
+        ]
+    },
+    {
+        "pokedex_number": 382,
+        "species": "kyogre",
+        "name": "Kyogre",
+        "forms": [
+            "kyogre-primal"
+        ]
+    },
+    {
+        "pokedex_number": 383,
+        "species": "groudon",
+        "name": "Groudon",
+        "forms": [
+            "groudon-primal"
+        ]
+    },
+    {
+        "pokedex_number": 384,
+        "species": "rayquaza",
+        "name": "Rayquaza",
+        "forms": [
+            "rayquaza-mega"
+        ]
+    },
+    {
+        "pokedex_number": 385,
+        "species": "jirachi",
+        "name": "Jirachi",
+        "forms": []
+    },
+    {
+        "pokedex_number": 386,
+        "species": "deoxys",
+        "name": "Deoxys",
+        "forms": [
+            "deoxys-attack",
+            "deoxys-defense",
+            "deoxys-speed",
+            "deoxys-normal"
+        ],
+        "default": "deoxys-normal"
+    },
+    {
+        "pokedex_number": 387,
+        "species": "turtwig",
+        "name": "Turtwig",
+        "forms": []
+    },
+    {
+        "pokedex_number": 388,
+        "species": "grotle",
+        "name": "Grotle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 389,
+        "species": "torterra",
+        "name": "Torterra",
+        "forms": []
+    },
+    {
+        "pokedex_number": 390,
+        "species": "chimchar",
+        "name": "Chimchar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 391,
+        "species": "monferno",
+        "name": "Monferno",
+        "forms": []
+    },
+    {
+        "pokedex_number": 392,
+        "species": "infernape",
+        "name": "Infernape",
+        "forms": []
+    },
+    {
+        "pokedex_number": 393,
+        "species": "piplup",
+        "name": "Piplup",
+        "forms": []
+    },
+    {
+        "pokedex_number": 394,
+        "species": "prinplup",
+        "name": "Prinplup",
+        "forms": []
+    },
+    {
+        "pokedex_number": 395,
+        "species": "empoleon",
+        "name": "Empoleon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 396,
+        "species": "starly",
+        "name": "Starly",
+        "forms": []
+    },
+    {
+        "pokedex_number": 397,
+        "species": "staravia",
+        "name": "Staravia",
+        "forms": []
+    },
+    {
+        "pokedex_number": 398,
+        "species": "staraptor",
+        "name": "Staraptor",
+        "forms": []
+    },
+    {
+        "pokedex_number": 399,
+        "species": "bidoof",
+        "name": "Bidoof",
+        "forms": []
+    },
+    {
+        "pokedex_number": 400,
+        "species": "bibarel",
+        "name": "Bibarel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 401,
+        "species": "kricketot",
+        "name": "Kricketot",
+        "forms": []
+    },
+    {
+        "pokedex_number": 402,
+        "species": "kricketune",
+        "name": "Kricketune",
+        "forms": []
+    },
+    {
+        "pokedex_number": 403,
+        "species": "shinx",
+        "name": "Shinx",
+        "forms": []
+    },
+    {
+        "pokedex_number": 404,
+        "species": "luxio",
+        "name": "Luxio",
+        "forms": []
+    },
+    {
+        "pokedex_number": 405,
+        "species": "luxray",
+        "name": "Luxray",
+        "forms": []
+    },
+    {
+        "pokedex_number": 406,
+        "species": "budew",
+        "name": "Budew",
+        "forms": []
+    },
+    {
+        "pokedex_number": 407,
+        "species": "roserade",
+        "name": "Roserade",
+        "forms": []
+    },
+    {
+        "pokedex_number": 408,
+        "species": "cranidos",
+        "name": "Cranidos",
+        "forms": []
+    },
+    {
+        "pokedex_number": 409,
+        "species": "rampardos",
+        "name": "Rampardos",
+        "forms": []
+    },
+    {
+        "pokedex_number": 410,
+        "species": "shieldon",
+        "name": "Shieldon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 411,
+        "species": "bastiodon",
+        "name": "Bastiodon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 412,
+        "species": "burmy",
+        "name": "Burmy",
+        "forms": [
+            "burmy-plant",
+            "burmy-sandy",
+            "burmy-trash"
+        ],
+        "default": "burmy-plant"
+    },
+    {
+        "pokedex_number": 413,
+        "species": "wormadam",
+        "name": "Wormadam",
+        "forms": [
+            "wormadam-sandy",
+            "wormadam-trash",
+            "wormadam-plant"
+        ],
+        "default": "wormadam-plant"
+    },
+    {
+        "pokedex_number": 414,
+        "species": "mothim",
+        "name": "Mothim",
+        "forms": [
+            "mothim-plant",
+            "mothim-sandy",
+            "mothim-trash"
+        ]
+    },
+    {
+        "pokedex_number": 415,
+        "species": "combee",
+        "name": "Combee",
+        "forms": []
+    },
+    {
+        "pokedex_number": 416,
+        "species": "vespiquen",
+        "name": "Vespiquen",
+        "forms": []
+    },
+    {
+        "pokedex_number": 417,
+        "species": "pachirisu",
+        "name": "Pachirisu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 418,
+        "species": "buizel",
+        "name": "Buizel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 419,
+        "species": "floatzel",
+        "name": "Floatzel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 420,
+        "species": "cherubi",
+        "name": "Cherubi",
+        "forms": []
+    },
+    {
+        "pokedex_number": 421,
+        "species": "cherrim",
+        "name": "Cherrim",
+        "forms": [
+            "cherrim-overcast",
+            "cherrim-sunshine"
+        ],
+        "default": "cherrim-overcast"
+    },
+    {
+        "pokedex_number": 422,
+        "species": "shellos",
+        "name": "Shellos",
+        "forms": [
+            "shellos-west",
+            "shellos-east"
+        ],
+        "default": "shellos-west"
+    },
+    {
+        "pokedex_number": 423,
+        "species": "gastrodon",
+        "name": "Gastrodon",
+        "forms": [
+            "gastrodon-west",
+            "gastrodon-east"
+        ],
+        "default": "gastrodon-west"
+    },
+    {
+        "pokedex_number": 424,
+        "species": "ambipom",
+        "name": "Ambipom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 425,
+        "species": "drifloon",
+        "name": "Drifloon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 426,
+        "species": "drifblim",
+        "name": "Drifblim",
+        "forms": []
+    },
+    {
+        "pokedex_number": 427,
+        "species": "buneary",
+        "name": "Buneary",
+        "forms": []
+    },
+    {
+        "pokedex_number": 428,
+        "species": "lopunny",
+        "name": "Lopunny",
+        "forms": [
+            "lopunny-mega"
+        ]
+    },
+    {
+        "pokedex_number": 429,
+        "species": "mismagius",
+        "name": "Mismagius",
+        "forms": []
+    },
+    {
+        "pokedex_number": 430,
+        "species": "honchkrow",
+        "name": "Honchkrow",
+        "forms": []
+    },
+    {
+        "pokedex_number": 431,
+        "species": "glameow",
+        "name": "Glameow",
+        "forms": []
+    },
+    {
+        "pokedex_number": 432,
+        "species": "purugly",
+        "name": "Purugly",
+        "forms": []
+    },
+    {
+        "pokedex_number": 433,
+        "species": "chingling",
+        "name": "Chingling",
+        "forms": []
+    },
+    {
+        "pokedex_number": 434,
+        "species": "stunky",
+        "name": "Stunky",
+        "forms": []
+    },
+    {
+        "pokedex_number": 435,
+        "species": "skuntank",
+        "name": "Skuntank",
+        "forms": []
+    },
+    {
+        "pokedex_number": 436,
+        "species": "bronzor",
+        "name": "Bronzor",
+        "forms": []
+    },
+    {
+        "pokedex_number": 437,
+        "species": "bronzong",
+        "name": "Bronzong",
+        "forms": []
+    },
+    {
+        "pokedex_number": 438,
+        "species": "bonsly",
+        "name": "Bonsly",
+        "forms": []
+    },
+    {
+        "pokedex_number": 439,
+        "species": "mime-jr",
+        "name": "Mime Jr.",
+        "forms": []
+    },
+    {
+        "pokedex_number": 440,
+        "species": "happiny",
+        "name": "Happiny",
+        "forms": []
+    },
+    {
+        "pokedex_number": 441,
+        "species": "chatot",
+        "name": "Chatot",
+        "forms": []
+    },
+    {
+        "pokedex_number": 442,
+        "species": "spiritomb",
+        "name": "Spiritomb",
+        "forms": []
+    },
+    {
+        "pokedex_number": 443,
+        "species": "gible",
+        "name": "Gible",
+        "forms": []
+    },
+    {
+        "pokedex_number": 444,
+        "species": "gabite",
+        "name": "Gabite",
+        "forms": []
+    },
+    {
+        "pokedex_number": 445,
+        "species": "garchomp",
+        "name": "Garchomp",
+        "forms": [
+            "garchomp-mega"
+        ]
+    },
+    {
+        "pokedex_number": 446,
+        "species": "munchlax",
+        "name": "Munchlax",
+        "forms": []
+    },
+    {
+        "pokedex_number": 447,
+        "species": "riolu",
+        "name": "Riolu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 448,
+        "species": "lucario",
+        "name": "Lucario",
+        "forms": [
+            "lucario-mega"
+        ]
+    },
+    {
+        "pokedex_number": 449,
+        "species": "hippopotas",
+        "name": "Hippopotas",
+        "forms": []
+    },
+    {
+        "pokedex_number": 450,
+        "species": "hippowdon",
+        "name": "Hippowdon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 451,
+        "species": "skorupi",
+        "name": "Skorupi",
+        "forms": []
+    },
+    {
+        "pokedex_number": 452,
+        "species": "drapion",
+        "name": "Drapion",
+        "forms": []
+    },
+    {
+        "pokedex_number": 453,
+        "species": "croagunk",
+        "name": "Croagunk",
+        "forms": []
+    },
+    {
+        "pokedex_number": 454,
+        "species": "toxicroak",
+        "name": "Toxicroak",
+        "forms": []
+    },
+    {
+        "pokedex_number": 455,
+        "species": "carnivine",
+        "name": "Carnivine",
+        "forms": []
+    },
+    {
+        "pokedex_number": 456,
+        "species": "finneon",
+        "name": "Finneon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 457,
+        "species": "lumineon",
+        "name": "Lumineon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 458,
+        "species": "mantyke",
+        "name": "Mantyke",
+        "forms": []
+    },
+    {
+        "pokedex_number": 459,
+        "species": "snover",
+        "name": "Snover",
+        "forms": []
+    },
+    {
+        "pokedex_number": 460,
+        "species": "abomasnow",
+        "name": "Abomasnow",
+        "forms": [
+            "abomasnow-mega"
+        ]
+    },
+    {
+        "pokedex_number": 461,
+        "species": "weavile",
+        "name": "Weavile",
+        "forms": []
+    },
+    {
+        "pokedex_number": 462,
+        "species": "magnezone",
+        "name": "Magnezone",
+        "forms": []
+    },
+    {
+        "pokedex_number": 463,
+        "species": "lickilicky",
+        "name": "Lickilicky",
+        "forms": []
+    },
+    {
+        "pokedex_number": 464,
+        "species": "rhyperior",
+        "name": "Rhyperior",
+        "forms": []
+    },
+    {
+        "pokedex_number": 465,
+        "species": "tangrowth",
+        "name": "Tangrowth",
+        "forms": []
+    },
+    {
+        "pokedex_number": 466,
+        "species": "electivire",
+        "name": "Electivire",
+        "forms": []
+    },
+    {
+        "pokedex_number": 467,
+        "species": "magmortar",
+        "name": "Magmortar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 468,
+        "species": "togekiss",
+        "name": "Togekiss",
+        "forms": []
+    },
+    {
+        "pokedex_number": 469,
+        "species": "yanmega",
+        "name": "Yanmega",
+        "forms": []
+    },
+    {
+        "pokedex_number": 470,
+        "species": "leafeon",
+        "name": "Leafeon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 471,
+        "species": "glaceon",
+        "name": "Glaceon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 472,
+        "species": "gliscor",
+        "name": "Gliscor",
+        "forms": []
+    },
+    {
+        "pokedex_number": 473,
+        "species": "mamoswine",
+        "name": "Mamoswine",
+        "forms": []
+    },
+    {
+        "pokedex_number": 474,
+        "species": "porygon-z",
+        "name": "Porygon-Z",
+        "forms": []
+    },
+    {
+        "pokedex_number": 475,
+        "species": "gallade",
+        "name": "Gallade",
+        "forms": [
+            "gallade-mega"
+        ]
+    },
+    {
+        "pokedex_number": 476,
+        "species": "probopass",
+        "name": "Probopass",
+        "forms": []
+    },
+    {
+        "pokedex_number": 477,
+        "species": "dusknoir",
+        "name": "Dusknoir",
+        "forms": []
+    },
+    {
+        "pokedex_number": 478,
+        "species": "froslass",
+        "name": "Froslass",
+        "forms": []
+    },
+    {
+        "pokedex_number": 479,
+        "species": "rotom",
+        "name": "Rotom",
+        "forms": [
+            "rotom-heat",
+            "rotom-wash",
+            "rotom-frost",
+            "rotom-fan",
+            "rotom-mow"
+        ]
+    },
+    {
+        "pokedex_number": 480,
+        "species": "uxie",
+        "name": "Uxie",
+        "forms": []
+    },
+    {
+        "pokedex_number": 481,
+        "species": "mesprit",
+        "name": "Mesprit",
+        "forms": []
+    },
+    {
+        "pokedex_number": 482,
+        "species": "azelf",
+        "name": "Azelf",
+        "forms": []
+    },
+    {
+        "pokedex_number": 483,
+        "species": "dialga",
+        "name": "Dialga",
+        "forms": [
+            "dialga-origin"
+        ]
+    },
+    {
+        "pokedex_number": 484,
+        "species": "palkia",
+        "name": "Palkia",
+        "forms": [
+            "palkia-origin"
+        ]
+    },
+    {
+        "pokedex_number": 485,
+        "species": "heatran",
+        "name": "Heatran",
+        "forms": []
+    },
+    {
+        "pokedex_number": 486,
+        "species": "regigigas",
+        "name": "Regigigas",
+        "forms": []
+    },
+    {
+        "pokedex_number": 487,
+        "species": "giratina",
+        "name": "Giratina",
+        "forms": [
+            "giratina-origin",
+            "giratina-altered"
+        ],
+        "default": "giratina-altered"
+    },
+    {
+        "pokedex_number": 488,
+        "species": "cresselia",
+        "name": "Cresselia",
+        "forms": []
+    },
+    {
+        "pokedex_number": 489,
+        "species": "phione",
+        "name": "Phione",
+        "forms": []
+    },
+    {
+        "pokedex_number": 490,
+        "species": "manaphy",
+        "name": "Manaphy",
+        "forms": []
+    },
+    {
+        "pokedex_number": 491,
+        "species": "darkrai",
+        "name": "Darkrai",
+        "forms": []
+    },
+    {
+        "pokedex_number": 492,
+        "species": "shaymin",
+        "name": "Shaymin",
+        "forms": [
+            "shaymin-sky",
+            "shaymin-land"
+        ],
+        "default": "shaymin-land"
+    },
+    {
+        "pokedex_number": 493,
+        "species": "arceus",
+        "name": "Arceus",
+        "forms": [
+            "arceus-normal",
+            "arceus-bug",
+            "arceus-dark",
+            "arceus-dragon",
+            "arceus-electric",
+            "arceus-fighting",
+            "arceus-fire",
+            "arceus-flying",
+            "arceus-ghost",
+            "arceus-grass",
+            "arceus-ground",
+            "arceus-ice",
+            "arceus-poison",
+            "arceus-psychic",
+            "arceus-rock",
+            "arceus-steel",
+            "arceus-water",
+            "arceus-unknown",
+            "arceus-fairy"
+        ]
+    },
+    {
+        "pokedex_number": 494,
+        "species": "victini",
+        "name": "Victini",
+        "forms": []
+    },
+    {
+        "pokedex_number": 495,
+        "species": "snivy",
+        "name": "Snivy",
+        "forms": []
+    },
+    {
+        "pokedex_number": 496,
+        "species": "servine",
+        "name": "Servine",
+        "forms": []
+    },
+    {
+        "pokedex_number": 497,
+        "species": "serperior",
+        "name": "Serperior",
+        "forms": []
+    },
+    {
+        "pokedex_number": 498,
+        "species": "tepig",
+        "name": "Tepig",
+        "forms": []
+    },
+    {
+        "pokedex_number": 499,
+        "species": "pignite",
+        "name": "Pignite",
+        "forms": []
+    },
+    {
+        "pokedex_number": 500,
+        "species": "emboar",
+        "name": "Emboar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 501,
+        "species": "oshawott",
+        "name": "Oshawott",
+        "forms": []
+    },
+    {
+        "pokedex_number": 502,
+        "species": "dewott",
+        "name": "Dewott",
+        "forms": []
+    },
+    {
+        "pokedex_number": 503,
+        "species": "samurott",
+        "name": "Samurott",
+        "forms": [
+            "samurott-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 504,
+        "species": "patrat",
+        "name": "Patrat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 505,
+        "species": "watchog",
+        "name": "Watchog",
+        "forms": []
+    },
+    {
+        "pokedex_number": 506,
+        "species": "lillipup",
+        "name": "Lillipup",
+        "forms": []
+    },
+    {
+        "pokedex_number": 507,
+        "species": "herdier",
+        "name": "Herdier",
+        "forms": []
+    },
+    {
+        "pokedex_number": 508,
+        "species": "stoutland",
+        "name": "Stoutland",
+        "forms": []
+    },
+    {
+        "pokedex_number": 509,
+        "species": "purrloin",
+        "name": "Purrloin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 510,
+        "species": "liepard",
+        "name": "Liepard",
+        "forms": []
+    },
+    {
+        "pokedex_number": 511,
+        "species": "pansage",
+        "name": "Pansage",
+        "forms": []
+    },
+    {
+        "pokedex_number": 512,
+        "species": "simisage",
+        "name": "Simisage",
+        "forms": []
+    },
+    {
+        "pokedex_number": 513,
+        "species": "pansear",
+        "name": "Pansear",
+        "forms": []
+    },
+    {
+        "pokedex_number": 514,
+        "species": "simisear",
+        "name": "Simisear",
+        "forms": []
+    },
+    {
+        "pokedex_number": 515,
+        "species": "panpour",
+        "name": "Panpour",
+        "forms": []
+    },
+    {
+        "pokedex_number": 516,
+        "species": "simipour",
+        "name": "Simipour",
+        "forms": []
+    },
+    {
+        "pokedex_number": 517,
+        "species": "munna",
+        "name": "Munna",
+        "forms": []
+    },
+    {
+        "pokedex_number": 518,
+        "species": "musharna",
+        "name": "Musharna",
+        "forms": []
+    },
+    {
+        "pokedex_number": 519,
+        "species": "pidove",
+        "name": "Pidove",
+        "forms": []
+    },
+    {
+        "pokedex_number": 520,
+        "species": "tranquill",
+        "name": "Tranquill",
+        "forms": []
+    },
+    {
+        "pokedex_number": 521,
+        "species": "unfezant",
+        "name": "Unfezant",
+        "forms": []
+    },
+    {
+        "pokedex_number": 522,
+        "species": "blitzle",
+        "name": "Blitzle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 523,
+        "species": "zebstrika",
+        "name": "Zebstrika",
+        "forms": []
+    },
+    {
+        "pokedex_number": 524,
+        "species": "roggenrola",
+        "name": "Roggenrola",
+        "forms": []
+    },
+    {
+        "pokedex_number": 525,
+        "species": "boldore",
+        "name": "Boldore",
+        "forms": []
+    },
+    {
+        "pokedex_number": 526,
+        "species": "gigalith",
+        "name": "Gigalith",
+        "forms": []
+    },
+    {
+        "pokedex_number": 527,
+        "species": "woobat",
+        "name": "Woobat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 528,
+        "species": "swoobat",
+        "name": "Swoobat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 529,
+        "species": "drilbur",
+        "name": "Drilbur",
+        "forms": []
+    },
+    {
+        "pokedex_number": 530,
+        "species": "excadrill",
+        "name": "Excadrill",
+        "forms": []
+    },
+    {
+        "pokedex_number": 531,
+        "species": "audino",
+        "name": "Audino",
+        "forms": [
+            "audino-mega"
+        ]
+    },
+    {
+        "pokedex_number": 532,
+        "species": "timburr",
+        "name": "Timburr",
+        "forms": []
+    },
+    {
+        "pokedex_number": 533,
+        "species": "gurdurr",
+        "name": "Gurdurr",
+        "forms": []
+    },
+    {
+        "pokedex_number": 534,
+        "species": "conkeldurr",
+        "name": "Conkeldurr",
+        "forms": []
+    },
+    {
+        "pokedex_number": 535,
+        "species": "tympole",
+        "name": "Tympole",
+        "forms": []
+    },
+    {
+        "pokedex_number": 536,
+        "species": "palpitoad",
+        "name": "Palpitoad",
+        "forms": []
+    },
+    {
+        "pokedex_number": 537,
+        "species": "seismitoad",
+        "name": "Seismitoad",
+        "forms": []
+    },
+    {
+        "pokedex_number": 538,
+        "species": "throh",
+        "name": "Throh",
+        "forms": []
+    },
+    {
+        "pokedex_number": 539,
+        "species": "sawk",
+        "name": "Sawk",
+        "forms": []
+    },
+    {
+        "pokedex_number": 540,
+        "species": "sewaddle",
+        "name": "Sewaddle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 541,
+        "species": "swadloon",
+        "name": "Swadloon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 542,
+        "species": "leavanny",
+        "name": "Leavanny",
+        "forms": []
+    },
+    {
+        "pokedex_number": 543,
+        "species": "venipede",
+        "name": "Venipede",
+        "forms": []
+    },
+    {
+        "pokedex_number": 544,
+        "species": "whirlipede",
+        "name": "Whirlipede",
+        "forms": []
+    },
+    {
+        "pokedex_number": 545,
+        "species": "scolipede",
+        "name": "Scolipede",
+        "forms": []
+    },
+    {
+        "pokedex_number": 546,
+        "species": "cottonee",
+        "name": "Cottonee",
+        "forms": []
+    },
+    {
+        "pokedex_number": 547,
+        "species": "whimsicott",
+        "name": "Whimsicott",
+        "forms": []
+    },
+    {
+        "pokedex_number": 548,
+        "species": "petilil",
+        "name": "Petilil",
+        "forms": []
+    },
+    {
+        "pokedex_number": 549,
+        "species": "lilligant",
+        "name": "Lilligant",
+        "forms": [
+            "lilligant-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 550,
+        "species": "basculin",
+        "name": "Basculin",
+        "forms": [
+            "basculin-blue-striped",
+            "basculin-white-striped",
+            "basculin-red-striped"
+        ],
+        "default": "basculin-red-striped"
+    },
+    {
+        "pokedex_number": 551,
+        "species": "sandile",
+        "name": "Sandile",
+        "forms": []
+    },
+    {
+        "pokedex_number": 552,
+        "species": "krokorok",
+        "name": "Krokorok",
+        "forms": []
+    },
+    {
+        "pokedex_number": 553,
+        "species": "krookodile",
+        "name": "Krookodile",
+        "forms": []
+    },
+    {
+        "pokedex_number": 554,
+        "species": "darumaka",
+        "name": "Darumaka",
+        "forms": [
+            "darumaka-galar"
+        ]
+    },
+    {
+        "pokedex_number": 555,
+        "species": "darmanitan",
+        "name": "Darmanitan",
+        "forms": [
+            "darmanitan-zen",
+            "darmanitan-galar",
+            "darmanitan-galar-zen"
+        ]
+    },
+    {
+        "pokedex_number": 556,
+        "species": "maractus",
+        "name": "Maractus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 557,
+        "species": "dwebble",
+        "name": "Dwebble",
+        "forms": []
+    },
+    {
+        "pokedex_number": 558,
+        "species": "crustle",
+        "name": "Crustle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 559,
+        "species": "scraggy",
+        "name": "Scraggy",
+        "forms": []
+    },
+    {
+        "pokedex_number": 560,
+        "species": "scrafty",
+        "name": "Scrafty",
+        "forms": []
+    },
+    {
+        "pokedex_number": 561,
+        "species": "sigilyph",
+        "name": "Sigilyph",
+        "forms": []
+    },
+    {
+        "pokedex_number": 562,
+        "species": "yamask",
+        "name": "Yamask",
+        "forms": [
+            "yamask-galar"
+        ]
+    },
+    {
+        "pokedex_number": 563,
+        "species": "cofagrigus",
+        "name": "Cofagrigus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 564,
+        "species": "tirtouga",
+        "name": "Tirtouga",
+        "forms": []
+    },
+    {
+        "pokedex_number": 565,
+        "species": "carracosta",
+        "name": "Carracosta",
+        "forms": []
+    },
+    {
+        "pokedex_number": 566,
+        "species": "archen",
+        "name": "Archen",
+        "forms": []
+    },
+    {
+        "pokedex_number": 567,
+        "species": "archeops",
+        "name": "Archeops",
+        "forms": []
+    },
+    {
+        "pokedex_number": 568,
+        "species": "trubbish",
+        "name": "Trubbish",
+        "forms": []
+    },
+    {
+        "pokedex_number": 569,
+        "species": "garbodor",
+        "name": "Garbodor",
+        "forms": [
+            "garbodor-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 570,
+        "species": "zorua",
+        "name": "Zorua",
+        "forms": [
+            "zorua-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 571,
+        "species": "zoroark",
+        "name": "Zoroark",
+        "forms": [
+            "zoroark-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 572,
+        "species": "minccino",
+        "name": "Minccino",
+        "forms": []
+    },
+    {
+        "pokedex_number": 573,
+        "species": "cinccino",
+        "name": "Cinccino",
+        "forms": []
+    },
+    {
+        "pokedex_number": 574,
+        "species": "gothita",
+        "name": "Gothita",
+        "forms": []
+    },
+    {
+        "pokedex_number": 575,
+        "species": "gothorita",
+        "name": "Gothorita",
+        "forms": []
+    },
+    {
+        "pokedex_number": 576,
+        "species": "gothitelle",
+        "name": "Gothitelle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 577,
+        "species": "solosis",
+        "name": "Solosis",
+        "forms": []
+    },
+    {
+        "pokedex_number": 578,
+        "species": "duosion",
+        "name": "Duosion",
+        "forms": []
+    },
+    {
+        "pokedex_number": 579,
+        "species": "reuniclus",
+        "name": "Reuniclus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 580,
+        "species": "ducklett",
+        "name": "Ducklett",
+        "forms": []
+    },
+    {
+        "pokedex_number": 581,
+        "species": "swanna",
+        "name": "Swanna",
+        "forms": []
+    },
+    {
+        "pokedex_number": 582,
+        "species": "vanillite",
+        "name": "Vanillite",
+        "forms": []
+    },
+    {
+        "pokedex_number": 583,
+        "species": "vanillish",
+        "name": "Vanillish",
+        "forms": []
+    },
+    {
+        "pokedex_number": 584,
+        "species": "vanilluxe",
+        "name": "Vanilluxe",
+        "forms": []
+    },
+    {
+        "pokedex_number": 585,
+        "species": "deerling",
+        "name": "Deerling",
+        "forms": [
+            "deerling-spring",
+            "deerling-summer",
+            "deerling-autumn",
+            "deerling-winter"
+        ],
+        "default": "deerling-spring"
+    },
+    {
+        "pokedex_number": 586,
+        "species": "sawsbuck",
+        "name": "Sawsbuck",
+        "forms": [
+            "sawsbuck-spring",
+            "sawsbuck-summer",
+            "sawsbuck-autumn",
+            "sawsbuck-winter"
+        ],
+        "default": "sawsbuck-spring"
+    },
+    {
+        "pokedex_number": 587,
+        "species": "emolga",
+        "name": "Emolga",
+        "forms": []
+    },
+    {
+        "pokedex_number": 588,
+        "species": "karrablast",
+        "name": "Karrablast",
+        "forms": []
+    },
+    {
+        "pokedex_number": 589,
+        "species": "escavalier",
+        "name": "Escavalier",
+        "forms": []
+    },
+    {
+        "pokedex_number": 590,
+        "species": "foongus",
+        "name": "Foongus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 591,
+        "species": "amoonguss",
+        "name": "Amoonguss",
+        "forms": []
+    },
+    {
+        "pokedex_number": 592,
+        "species": "frillish",
+        "name": "Frillish",
+        "forms": []
+    },
+    {
+        "pokedex_number": 593,
+        "species": "jellicent",
+        "name": "Jellicent",
+        "forms": []
+    },
+    {
+        "pokedex_number": 594,
+        "species": "alomomola",
+        "name": "Alomomola",
+        "forms": []
+    },
+    {
+        "pokedex_number": 595,
+        "species": "joltik",
+        "name": "Joltik",
+        "forms": []
+    },
+    {
+        "pokedex_number": 596,
+        "species": "galvantula",
+        "name": "Galvantula",
+        "forms": []
+    },
+    {
+        "pokedex_number": 597,
+        "species": "ferroseed",
+        "name": "Ferroseed",
+        "forms": []
+    },
+    {
+        "pokedex_number": 598,
+        "species": "ferrothorn",
+        "name": "Ferrothorn",
+        "forms": []
+    },
+    {
+        "pokedex_number": 599,
+        "species": "klink",
+        "name": "Klink",
+        "forms": []
+    },
+    {
+        "pokedex_number": 600,
+        "species": "klang",
+        "name": "Klang",
+        "forms": []
+    },
+    {
+        "pokedex_number": 601,
+        "species": "klinklang",
+        "name": "Klinklang",
+        "forms": []
+    },
+    {
+        "pokedex_number": 602,
+        "species": "tynamo",
+        "name": "Tynamo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 603,
+        "species": "eelektrik",
+        "name": "Eelektrik",
+        "forms": []
+    },
+    {
+        "pokedex_number": 604,
+        "species": "eelektross",
+        "name": "Eelektross",
+        "forms": []
+    },
+    {
+        "pokedex_number": 605,
+        "species": "elgyem",
+        "name": "Elgyem",
+        "forms": []
+    },
+    {
+        "pokedex_number": 606,
+        "species": "beheeyem",
+        "name": "Beheeyem",
+        "forms": []
+    },
+    {
+        "pokedex_number": 607,
+        "species": "litwick",
+        "name": "Litwick",
+        "forms": []
+    },
+    {
+        "pokedex_number": 608,
+        "species": "lampent",
+        "name": "Lampent",
+        "forms": []
+    },
+    {
+        "pokedex_number": 609,
+        "species": "chandelure",
+        "name": "Chandelure",
+        "forms": []
+    },
+    {
+        "pokedex_number": 610,
+        "species": "axew",
+        "name": "Axew",
+        "forms": []
+    },
+    {
+        "pokedex_number": 611,
+        "species": "fraxure",
+        "name": "Fraxure",
+        "forms": []
+    },
+    {
+        "pokedex_number": 612,
+        "species": "haxorus",
+        "name": "Haxorus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 613,
+        "species": "cubchoo",
+        "name": "Cubchoo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 614,
+        "species": "beartic",
+        "name": "Beartic",
+        "forms": []
+    },
+    {
+        "pokedex_number": 615,
+        "species": "cryogonal",
+        "name": "Cryogonal",
+        "forms": []
+    },
+    {
+        "pokedex_number": 616,
+        "species": "shelmet",
+        "name": "Shelmet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 617,
+        "species": "accelgor",
+        "name": "Accelgor",
+        "forms": []
+    },
+    {
+        "pokedex_number": 618,
+        "species": "stunfisk",
+        "name": "Stunfisk",
+        "forms": [
+            "stunfisk-galar"
+        ]
+    },
+    {
+        "pokedex_number": 619,
+        "species": "mienfoo",
+        "name": "Mienfoo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 620,
+        "species": "mienshao",
+        "name": "Mienshao",
+        "forms": []
+    },
+    {
+        "pokedex_number": 621,
+        "species": "druddigon",
+        "name": "Druddigon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 622,
+        "species": "golett",
+        "name": "Golett",
+        "forms": []
+    },
+    {
+        "pokedex_number": 623,
+        "species": "golurk",
+        "name": "Golurk",
+        "forms": []
+    },
+    {
+        "pokedex_number": 624,
+        "species": "pawniard",
+        "name": "Pawniard",
+        "forms": []
+    },
+    {
+        "pokedex_number": 625,
+        "species": "bisharp",
+        "name": "Bisharp",
+        "forms": []
+    },
+    {
+        "pokedex_number": 626,
+        "species": "bouffalant",
+        "name": "Bouffalant",
+        "forms": []
+    },
+    {
+        "pokedex_number": 627,
+        "species": "rufflet",
+        "name": "Rufflet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 628,
+        "species": "braviary",
+        "name": "Braviary",
+        "forms": [
+            "braviary-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 629,
+        "species": "vullaby",
+        "name": "Vullaby",
+        "forms": []
+    },
+    {
+        "pokedex_number": 630,
+        "species": "mandibuzz",
+        "name": "Mandibuzz",
+        "forms": []
+    },
+    {
+        "pokedex_number": 631,
+        "species": "heatmor",
+        "name": "Heatmor",
+        "forms": []
+    },
+    {
+        "pokedex_number": 632,
+        "species": "durant",
+        "name": "Durant",
+        "forms": []
+    },
+    {
+        "pokedex_number": 633,
+        "species": "deino",
+        "name": "Deino",
+        "forms": []
+    },
+    {
+        "pokedex_number": 634,
+        "species": "zweilous",
+        "name": "Zweilous",
+        "forms": []
+    },
+    {
+        "pokedex_number": 635,
+        "species": "hydreigon",
+        "name": "Hydreigon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 636,
+        "species": "larvesta",
+        "name": "Larvesta",
+        "forms": []
+    },
+    {
+        "pokedex_number": 637,
+        "species": "volcarona",
+        "name": "Volcarona",
+        "forms": []
+    },
+    {
+        "pokedex_number": 638,
+        "species": "cobalion",
+        "name": "Cobalion",
+        "forms": []
+    },
+    {
+        "pokedex_number": 639,
+        "species": "terrakion",
+        "name": "Terrakion",
+        "forms": []
+    },
+    {
+        "pokedex_number": 640,
+        "species": "virizion",
+        "name": "Virizion",
+        "forms": []
+    },
+    {
+        "pokedex_number": 641,
+        "species": "tornadus",
+        "name": "Tornadus",
+        "forms": [
+            "tornadus-therian",
+            "tornadus-incarnate"
+        ],
+        "default": "tornadus-incarnate"
+    },
+    {
+        "pokedex_number": 642,
+        "species": "thundurus",
+        "name": "Thundurus",
+        "forms": [
+            "thundurus-therian",
+            "thundurus-incarnate"
+        ],
+        "default": "thundurus-incarnate"
+    },
+    {
+        "pokedex_number": 643,
+        "species": "reshiram",
+        "name": "Reshiram",
+        "forms": []
+    },
+    {
+        "pokedex_number": 644,
+        "species": "zekrom",
+        "name": "Zekrom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 645,
+        "species": "landorus",
+        "name": "Landorus",
+        "forms": [
+            "landorus-therian",
+            "landorus-incarnate"
+        ],
+        "default": "landorus-incarnate"
+    },
+    {
+        "pokedex_number": 646,
+        "species": "kyurem",
+        "name": "Kyurem",
+        "forms": [
+            "kyurem-black",
+            "kyurem-white"
+        ]
+    },
+    {
+        "pokedex_number": 647,
+        "species": "keldeo",
+        "name": "Keldeo",
+        "forms": [
+            "keldeo-resolute",
+            "keldeo-ordinary"
+        ],
+        "default": "keldeo-ordinary"
+    },
+    {
+        "pokedex_number": 648,
+        "species": "meloetta",
+        "name": "Meloetta",
+        "forms": [
+            "meloetta-pirouette",
+            "meloetta-aria"
+        ],
+        "default": "meloetta-aria"
+    },
+    {
+        "pokedex_number": 649,
+        "species": "genesect",
+        "name": "Genesect",
+        "forms": [
+            "genesect-douse",
+            "genesect-shock",
+            "genesect-burn",
+            "genesect-chill",
+            "genesect-no-drive"
+        ],
+        "default": "genesect-no-drive"
+    },
+    {
+        "pokedex_number": 650,
+        "species": "chespin",
+        "name": "Chespin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 651,
+        "species": "quilladin",
+        "name": "Quilladin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 652,
+        "species": "chesnaught",
+        "name": "Chesnaught",
+        "forms": []
+    },
+    {
+        "pokedex_number": 653,
+        "species": "fennekin",
+        "name": "Fennekin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 654,
+        "species": "braixen",
+        "name": "Braixen",
+        "forms": []
+    },
+    {
+        "pokedex_number": 655,
+        "species": "delphox",
+        "name": "Delphox",
+        "forms": []
+    },
+    {
+        "pokedex_number": 656,
+        "species": "froakie",
+        "name": "Froakie",
+        "forms": []
+    },
+    {
+        "pokedex_number": 657,
+        "species": "frogadier",
+        "name": "Frogadier",
+        "forms": []
+    },
+    {
+        "pokedex_number": 658,
+        "species": "greninja",
+        "name": "Greninja",
+        "forms": [
+            "greninja-battle-bond",
+            "greninja-ash"
+        ]
+    },
+    {
+        "pokedex_number": 659,
+        "species": "bunnelby",
+        "name": "Bunnelby",
+        "forms": []
+    },
+    {
+        "pokedex_number": 660,
+        "species": "diggersby",
+        "name": "Diggersby",
+        "forms": []
+    },
+    {
+        "pokedex_number": 661,
+        "species": "fletchling",
+        "name": "Fletchling",
+        "forms": []
+    },
+    {
+        "pokedex_number": 662,
+        "species": "fletchinder",
+        "name": "Fletchinder",
+        "forms": []
+    },
+    {
+        "pokedex_number": 663,
+        "species": "talonflame",
+        "name": "Talonflame",
+        "forms": []
+    },
+    {
+        "pokedex_number": 664,
+        "species": "scatterbug",
+        "name": "Scatterbug",
+        "forms": [
+            "scatterbug-icy-snow",
+            "scatterbug-polar",
+            "scatterbug-tundra",
+            "scatterbug-continental",
+            "scatterbug-garden",
+            "scatterbug-elegant",
+            "scatterbug-meadow",
+            "scatterbug-modern",
+            "scatterbug-marine",
+            "scatterbug-archipelago",
+            "scatterbug-high-plains",
+            "scatterbug-sandstorm",
+            "scatterbug-river",
+            "scatterbug-monsoon",
+            "scatterbug-savanna",
+            "scatterbug-sun",
+            "scatterbug-ocean",
+            "scatterbug-jungle",
+            "scatterbug-fancy",
+            "scatterbug-poke-ball"
+        ]
+    },
+    {
+        "pokedex_number": 665,
+        "species": "spewpa",
+        "name": "Spewpa",
+        "forms": [
+            "spewpa-icy-snow",
+            "spewpa-polar",
+            "spewpa-tundra",
+            "spewpa-continental",
+            "spewpa-garden",
+            "spewpa-elegant",
+            "spewpa-meadow",
+            "spewpa-modern",
+            "spewpa-marine",
+            "spewpa-archipelago",
+            "spewpa-high-plains",
+            "spewpa-sandstorm",
+            "spewpa-river",
+            "spewpa-monsoon",
+            "spewpa-savanna",
+            "spewpa-sun",
+            "spewpa-ocean",
+            "spewpa-jungle",
+            "spewpa-fancy",
+            "spewpa-poke-ball"
+        ]
+    },
+    {
+        "pokedex_number": 666,
+        "species": "vivillon",
+        "name": "Vivillon",
+        "forms": [
+            "vivillon-meadow",
+            "vivillon-icy-snow",
+            "vivillon-polar",
+            "vivillon-tundra",
+            "vivillon-continental",
+            "vivillon-garden",
+            "vivillon-elegant",
+            "vivillon-modern",
+            "vivillon-marine",
+            "vivillon-archipelago",
+            "vivillon-high-plains",
+            "vivillon-sandstorm",
+            "vivillon-river",
+            "vivillon-monsoon",
+            "vivillon-savanna",
+            "vivillon-sun",
+            "vivillon-ocean",
+            "vivillon-jungle",
+            "vivillon-fancy",
+            "vivillon-poke-ball"
+        ]
+    },
+    {
+        "pokedex_number": 667,
+        "species": "litleo",
+        "name": "Litleo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 668,
+        "species": "pyroar",
+        "name": "Pyroar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 669,
+        "species": "flabebe",
+        "name": "Flabébé",
+        "forms": [
+            "flabebe-red",
+            "flabebe-yellow",
+            "flabebe-orange",
+            "flabebe-blue",
+            "flabebe-white"
+        ]
+    },
+    {
+        "pokedex_number": 670,
+        "species": "floette",
+        "name": "Floette",
+        "forms": [
+            "floette-red",
+            "floette-yellow",
+            "floette-orange",
+            "floette-blue",
+            "floette-white",
+            "floette-eternal"
+        ]
+    },
+    {
+        "pokedex_number": 671,
+        "species": "florges",
+        "name": "Florges",
+        "forms": [
+            "florges-red",
+            "florges-yellow",
+            "florges-orange",
+            "florges-blue",
+            "florges-white"
+        ]
+    },
+    {
+        "pokedex_number": 672,
+        "species": "skiddo",
+        "name": "Skiddo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 673,
+        "species": "gogoat",
+        "name": "Gogoat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 674,
+        "species": "pancham",
+        "name": "Pancham",
+        "forms": []
+    },
+    {
+        "pokedex_number": 675,
+        "species": "pangoro",
+        "name": "Pangoro",
+        "forms": []
+    },
+    {
+        "pokedex_number": 676,
+        "species": "furfrou",
+        "name": "Furfrou",
+        "forms": [
+            "furfrou-natural",
+            "furfrou-heart",
+            "furfrou-star",
+            "furfrou-diamond",
+            "furfrou-debutante",
+            "furfrou-matron",
+            "furfrou-dandy",
+            "furfrou-la-reine",
+            "furfrou-kabuki",
+            "furfrou-pharaoh"
+        ]
+    },
+    {
+        "pokedex_number": 677,
+        "species": "espurr",
+        "name": "Espurr",
+        "forms": []
+    },
+    {
+        "pokedex_number": 678,
+        "species": "meowstic",
+        "name": "Meowstic",
+        "forms": [
+            "meowstic-female",
+            "meowstic-male"
+        ],
+        "default": "meowstic-male"
+    },
+    {
+        "pokedex_number": 679,
+        "species": "honedge",
+        "name": "Honedge",
+        "forms": []
+    },
+    {
+        "pokedex_number": 680,
+        "species": "doublade",
+        "name": "Doublade",
+        "forms": []
+    },
+    {
+        "pokedex_number": 681,
+        "species": "aegislash",
+        "name": "Aegislash",
+        "forms": [
+            "aegislash-blade",
+            "aegislash-shield"
+        ],
+        "default": "aegislash-shield"
+    },
+    {
+        "pokedex_number": 682,
+        "species": "spritzee",
+        "name": "Spritzee",
+        "forms": []
+    },
+    {
+        "pokedex_number": 683,
+        "species": "aromatisse",
+        "name": "Aromatisse",
+        "forms": []
+    },
+    {
+        "pokedex_number": 684,
+        "species": "swirlix",
+        "name": "Swirlix",
+        "forms": []
+    },
+    {
+        "pokedex_number": 685,
+        "species": "slurpuff",
+        "name": "Slurpuff",
+        "forms": []
+    },
+    {
+        "pokedex_number": 686,
+        "species": "inkay",
+        "name": "Inkay",
+        "forms": []
+    },
+    {
+        "pokedex_number": 687,
+        "species": "malamar",
+        "name": "Malamar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 688,
+        "species": "binacle",
+        "name": "Binacle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 689,
+        "species": "barbaracle",
+        "name": "Barbaracle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 690,
+        "species": "skrelp",
+        "name": "Skrelp",
+        "forms": []
+    },
+    {
+        "pokedex_number": 691,
+        "species": "dragalge",
+        "name": "Dragalge",
+        "forms": []
+    },
+    {
+        "pokedex_number": 692,
+        "species": "clauncher",
+        "name": "Clauncher",
+        "forms": []
+    },
+    {
+        "pokedex_number": 693,
+        "species": "clawitzer",
+        "name": "Clawitzer",
+        "forms": []
+    },
+    {
+        "pokedex_number": 694,
+        "species": "helioptile",
+        "name": "Helioptile",
+        "forms": []
+    },
+    {
+        "pokedex_number": 695,
+        "species": "heliolisk",
+        "name": "Heliolisk",
+        "forms": []
+    },
+    {
+        "pokedex_number": 696,
+        "species": "tyrunt",
+        "name": "Tyrunt",
+        "forms": []
+    },
+    {
+        "pokedex_number": 697,
+        "species": "tyrantrum",
+        "name": "Tyrantrum",
+        "forms": []
+    },
+    {
+        "pokedex_number": 698,
+        "species": "amaura",
+        "name": "Amaura",
+        "forms": []
+    },
+    {
+        "pokedex_number": 699,
+        "species": "aurorus",
+        "name": "Aurorus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 700,
+        "species": "sylveon",
+        "name": "Sylveon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 701,
+        "species": "hawlucha",
+        "name": "Hawlucha",
+        "forms": []
+    },
+    {
+        "pokedex_number": 702,
+        "species": "dedenne",
+        "name": "Dedenne",
+        "forms": []
+    },
+    {
+        "pokedex_number": 703,
+        "species": "carbink",
+        "name": "Carbink",
+        "forms": []
+    },
+    {
+        "pokedex_number": 704,
+        "species": "goomy",
+        "name": "Goomy",
+        "forms": []
+    },
+    {
+        "pokedex_number": 705,
+        "species": "sliggoo",
+        "name": "Sliggoo",
+        "forms": [
+            "sliggoo-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 706,
+        "species": "goodra",
+        "name": "Goodra",
+        "forms": [
+            "goodra-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 707,
+        "species": "klefki",
+        "name": "Klefki",
+        "forms": []
+    },
+    {
+        "pokedex_number": 708,
+        "species": "phantump",
+        "name": "Phantump",
+        "forms": []
+    },
+    {
+        "pokedex_number": 709,
+        "species": "trevenant",
+        "name": "Trevenant",
+        "forms": []
+    },
+    {
+        "pokedex_number": 710,
+        "species": "pumpkaboo",
+        "name": "Pumpkaboo",
+        "forms": [
+            "pumpkaboo-small",
+            "pumpkaboo-large",
+            "pumpkaboo-super",
+            "pumpkaboo-average"
+        ],
+        "default": "pumpkaboo-average"
+    },
+    {
+        "pokedex_number": 711,
+        "species": "gourgeist",
+        "name": "Gourgeist",
+        "forms": [
+            "gourgeist-small",
+            "gourgeist-large",
+            "gourgeist-super",
+            "gourgeist-average"
+        ],
+        "default": "gourgeist-average"
+    },
+    {
+        "pokedex_number": 712,
+        "species": "bergmite",
+        "name": "Bergmite",
+        "forms": []
+    },
+    {
+        "pokedex_number": 713,
+        "species": "avalugg",
+        "name": "Avalugg",
+        "forms": [
+            "avalugg-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 714,
+        "species": "noibat",
+        "name": "Noibat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 715,
+        "species": "noivern",
+        "name": "Noivern",
+        "forms": []
+    },
+    {
+        "pokedex_number": 716,
+        "species": "xerneas",
+        "name": "Xerneas",
+        "forms": [
+            "xerneas-active",
+            "xerneas-neutral"
+        ],
+        "default": "xerneas-neutral"
+    },
+    {
+        "pokedex_number": 717,
+        "species": "yveltal",
+        "name": "Yveltal",
+        "forms": []
+    },
+    {
+        "pokedex_number": 718,
+        "species": "zygarde",
+        "name": "Zygarde",
+        "forms": [
+            "zygarde-10-power-construct",
+            "zygarde-50-power-construct",
+            "zygarde-complete",
+            "zygarde-10",
+            "zygarde-50"
+        ],
+        "default": "zygarde-50"
+    },
+    {
+        "pokedex_number": 719,
+        "species": "diancie",
+        "name": "Diancie",
+        "forms": [
+            "diancie-mega"
+        ]
+    },
+    {
+        "pokedex_number": 720,
+        "species": "hoopa",
+        "name": "Hoopa",
+        "forms": [
+            "hoopa-unbound"
+        ]
+    },
+    {
+        "pokedex_number": 721,
+        "species": "volcanion",
+        "name": "Volcanion",
+        "forms": []
+    },
+    {
+        "pokedex_number": 722,
+        "species": "rowlet",
+        "name": "Rowlet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 723,
+        "species": "dartrix",
+        "name": "Dartrix",
+        "forms": []
+    },
+    {
+        "pokedex_number": 724,
+        "species": "decidueye",
+        "name": "Decidueye",
+        "forms": [
+            "decidueye-hisui"
+        ]
+    },
+    {
+        "pokedex_number": 725,
+        "species": "litten",
+        "name": "Litten",
+        "forms": []
+    },
+    {
+        "pokedex_number": 726,
+        "species": "torracat",
+        "name": "Torracat",
+        "forms": []
+    },
+    {
+        "pokedex_number": 727,
+        "species": "incineroar",
+        "name": "Incineroar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 728,
+        "species": "popplio",
+        "name": "Popplio",
+        "forms": []
+    },
+    {
+        "pokedex_number": 729,
+        "species": "brionne",
+        "name": "Brionne",
+        "forms": []
+    },
+    {
+        "pokedex_number": 730,
+        "species": "primarina",
+        "name": "Primarina",
+        "forms": []
+    },
+    {
+        "pokedex_number": 731,
+        "species": "pikipek",
+        "name": "Pikipek",
+        "forms": []
+    },
+    {
+        "pokedex_number": 732,
+        "species": "trumbeak",
+        "name": "Trumbeak",
+        "forms": []
+    },
+    {
+        "pokedex_number": 733,
+        "species": "toucannon",
+        "name": "Toucannon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 734,
+        "species": "yungoos",
+        "name": "Yungoos",
+        "forms": []
+    },
+    {
+        "pokedex_number": 735,
+        "species": "gumshoos",
+        "name": "Gumshoos",
+        "forms": [
+            "gumshoos-totem"
+        ]
+    },
+    {
+        "pokedex_number": 736,
+        "species": "grubbin",
+        "name": "Grubbin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 737,
+        "species": "charjabug",
+        "name": "Charjabug",
+        "forms": []
+    },
+    {
+        "pokedex_number": 738,
+        "species": "vikavolt",
+        "name": "Vikavolt",
+        "forms": [
+            "vikavolt-totem"
+        ]
+    },
+    {
+        "pokedex_number": 739,
+        "species": "crabrawler",
+        "name": "Crabrawler",
+        "forms": []
+    },
+    {
+        "pokedex_number": 740,
+        "species": "crabominable",
+        "name": "Crabominable",
+        "forms": []
+    },
+    {
+        "pokedex_number": 741,
+        "species": "oricorio",
+        "name": "Oricorio",
+        "forms": [
+            "oricorio-pom-pom",
+            "oricorio-pau",
+            "oricorio-sensu",
+            "oricorio-baile"
+        ],
+        "default": "oricorio-baile"
+    },
+    {
+        "pokedex_number": 742,
+        "species": "cutiefly",
+        "name": "Cutiefly",
+        "forms": []
+    },
+    {
+        "pokedex_number": 743,
+        "species": "ribombee",
+        "name": "Ribombee",
+        "forms": [
+            "ribombee-totem"
+        ]
+    },
+    {
+        "pokedex_number": 744,
+        "species": "rockruff",
+        "name": "Rockruff",
+        "forms": [
+            "rockruff-own-tempo"
+        ]
+    },
+    {
+        "pokedex_number": 745,
+        "species": "lycanroc",
+        "name": "Lycanroc",
+        "forms": [
+            "lycanroc-midnight",
+            "lycanroc-dusk",
+            "lycanroc-midday"
+        ],
+        "default": "lycanroc-midday"
+    },
+    {
+        "pokedex_number": 746,
+        "species": "wishiwashi",
+        "name": "Wishiwashi",
+        "forms": [
+            "wishiwashi-school",
+            "wishiwashi-solo"
+        ],
+        "default": "wishiwashi-solo"
+    },
+    {
+        "pokedex_number": 747,
+        "species": "mareanie",
+        "name": "Mareanie",
+        "forms": []
+    },
+    {
+        "pokedex_number": 748,
+        "species": "toxapex",
+        "name": "Toxapex",
+        "forms": []
+    },
+    {
+        "pokedex_number": 749,
+        "species": "mudbray",
+        "name": "Mudbray",
+        "forms": []
+    },
+    {
+        "pokedex_number": 750,
+        "species": "mudsdale",
+        "name": "Mudsdale",
+        "forms": []
+    },
+    {
+        "pokedex_number": 751,
+        "species": "dewpider",
+        "name": "Dewpider",
+        "forms": []
+    },
+    {
+        "pokedex_number": 752,
+        "species": "araquanid",
+        "name": "Araquanid",
+        "forms": [
+            "araquanid-totem"
+        ]
+    },
+    {
+        "pokedex_number": 753,
+        "species": "fomantis",
+        "name": "Fomantis",
+        "forms": []
+    },
+    {
+        "pokedex_number": 754,
+        "species": "lurantis",
+        "name": "Lurantis",
+        "forms": [
+            "lurantis-totem"
+        ]
+    },
+    {
+        "pokedex_number": 755,
+        "species": "morelull",
+        "name": "Morelull",
+        "forms": []
+    },
+    {
+        "pokedex_number": 756,
+        "species": "shiinotic",
+        "name": "Shiinotic",
+        "forms": []
+    },
+    {
+        "pokedex_number": 757,
+        "species": "salandit",
+        "name": "Salandit",
+        "forms": []
+    },
+    {
+        "pokedex_number": 758,
+        "species": "salazzle",
+        "name": "Salazzle",
+        "forms": [
+            "salazzle-totem"
+        ]
+    },
+    {
+        "pokedex_number": 759,
+        "species": "stufful",
+        "name": "Stufful",
+        "forms": []
+    },
+    {
+        "pokedex_number": 760,
+        "species": "bewear",
+        "name": "Bewear",
+        "forms": []
+    },
+    {
+        "pokedex_number": 761,
+        "species": "bounsweet",
+        "name": "Bounsweet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 762,
+        "species": "steenee",
+        "name": "Steenee",
+        "forms": []
+    },
+    {
+        "pokedex_number": 763,
+        "species": "tsareena",
+        "name": "Tsareena",
+        "forms": []
+    },
+    {
+        "pokedex_number": 764,
+        "species": "comfey",
+        "name": "Comfey",
+        "forms": []
+    },
+    {
+        "pokedex_number": 765,
+        "species": "oranguru",
+        "name": "Oranguru",
+        "forms": []
+    },
+    {
+        "pokedex_number": 766,
+        "species": "passimian",
+        "name": "Passimian",
+        "forms": []
+    },
+    {
+        "pokedex_number": 767,
+        "species": "wimpod",
+        "name": "Wimpod",
+        "forms": []
+    },
+    {
+        "pokedex_number": 768,
+        "species": "golisopod",
+        "name": "Golisopod",
+        "forms": []
+    },
+    {
+        "pokedex_number": 769,
+        "species": "sandygast",
+        "name": "Sandygast",
+        "forms": []
+    },
+    {
+        "pokedex_number": 770,
+        "species": "palossand",
+        "name": "Palossand",
+        "forms": []
+    },
+    {
+        "pokedex_number": 771,
+        "species": "pyukumuku",
+        "name": "Pyukumuku",
+        "forms": []
+    },
+    {
+        "pokedex_number": 772,
+        "species": "type-null",
+        "name": "Type: Null",
+        "forms": []
+    },
+    {
+        "pokedex_number": 773,
+        "species": "silvally",
+        "name": "Silvally",
+        "forms": [
+            "silvally-normal",
+            "silvally-fighting",
+            "silvally-flying",
+            "silvally-poison",
+            "silvally-ground",
+            "silvally-rock",
+            "silvally-bug",
+            "silvally-ghost",
+            "silvally-steel",
+            "silvally-fire",
+            "silvally-water",
+            "silvally-grass",
+            "silvally-electric",
+            "silvally-psychic",
+            "silvally-ice",
+            "silvally-dragon",
+            "silvally-dark",
+            "silvally-fairy"
+        ]
+    },
+    {
+        "pokedex_number": 774,
+        "species": "minior",
+        "name": "Minior",
+        "forms": [
+            "minior-orange-meteor",
+            "minior-yellow-meteor",
+            "minior-green-meteor",
+            "minior-blue-meteor",
+            "minior-indigo-meteor",
+            "minior-violet-meteor",
+            "minior-red",
+            "minior-orange",
+            "minior-yellow",
+            "minior-green",
+            "minior-blue",
+            "minior-indigo",
+            "minior-violet",
+            "minior-red-meteor"
+        ],
+        "default": "minior-red-meteor"
+    },
+    {
+        "pokedex_number": 775,
+        "species": "komala",
+        "name": "Komala",
+        "forms": []
+    },
+    {
+        "pokedex_number": 776,
+        "species": "turtonator",
+        "name": "Turtonator",
+        "forms": []
+    },
+    {
+        "pokedex_number": 777,
+        "species": "togedemaru",
+        "name": "Togedemaru",
+        "forms": [
+            "togedemaru-totem"
+        ]
+    },
+    {
+        "pokedex_number": 778,
+        "species": "mimikyu",
+        "name": "Mimikyu",
+        "forms": [
+            "mimikyu-busted",
+            "mimikyu-totem-disguised",
+            "mimikyu-totem-busted",
+            "mimikyu-disguised"
+        ],
+        "default": "mimikyu-disguised"
+    },
+    {
+        "pokedex_number": 779,
+        "species": "bruxish",
+        "name": "Bruxish",
+        "forms": []
+    },
+    {
+        "pokedex_number": 780,
+        "species": "drampa",
+        "name": "Drampa",
+        "forms": []
+    },
+    {
+        "pokedex_number": 781,
+        "species": "dhelmise",
+        "name": "Dhelmise",
+        "forms": []
+    },
+    {
+        "pokedex_number": 782,
+        "species": "jangmo-o",
+        "name": "Jangmo-o",
+        "forms": []
+    },
+    {
+        "pokedex_number": 783,
+        "species": "hakamo-o",
+        "name": "Hakamo-o",
+        "forms": []
+    },
+    {
+        "pokedex_number": 784,
+        "species": "kommo-o",
+        "name": "Kommo-o",
+        "forms": [
+            "kommo-o-totem"
+        ]
+    },
+    {
+        "pokedex_number": 785,
+        "species": "tapu-koko",
+        "name": "Tapu Koko",
+        "forms": []
+    },
+    {
+        "pokedex_number": 786,
+        "species": "tapu-lele",
+        "name": "Tapu Lele",
+        "forms": []
+    },
+    {
+        "pokedex_number": 787,
+        "species": "tapu-bulu",
+        "name": "Tapu Bulu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 788,
+        "species": "tapu-fini",
+        "name": "Tapu Fini",
+        "forms": []
+    },
+    {
+        "pokedex_number": 789,
+        "species": "cosmog",
+        "name": "Cosmog",
+        "forms": []
+    },
+    {
+        "pokedex_number": 790,
+        "species": "cosmoem",
+        "name": "Cosmoem",
+        "forms": []
+    },
+    {
+        "pokedex_number": 791,
+        "species": "solgaleo",
+        "name": "Solgaleo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 792,
+        "species": "lunala",
+        "name": "Lunala",
+        "forms": []
+    },
+    {
+        "pokedex_number": 793,
+        "species": "nihilego",
+        "name": "Nihilego",
+        "forms": []
+    },
+    {
+        "pokedex_number": 794,
+        "species": "buzzwole",
+        "name": "Buzzwole",
+        "forms": []
+    },
+    {
+        "pokedex_number": 795,
+        "species": "pheromosa",
+        "name": "Pheromosa",
+        "forms": []
+    },
+    {
+        "pokedex_number": 796,
+        "species": "xurkitree",
+        "name": "Xurkitree",
+        "forms": []
+    },
+    {
+        "pokedex_number": 797,
+        "species": "celesteela",
+        "name": "Celesteela",
+        "forms": []
+    },
+    {
+        "pokedex_number": 798,
+        "species": "kartana",
+        "name": "Kartana",
+        "forms": []
+    },
+    {
+        "pokedex_number": 799,
+        "species": "guzzlord",
+        "name": "Guzzlord",
+        "forms": []
+    },
+    {
+        "pokedex_number": 800,
+        "species": "necrozma",
+        "name": "Necrozma",
+        "forms": [
+            "necrozma-dusk",
+            "necrozma-dawn",
+            "necrozma-ultra"
+        ]
+    },
+    {
+        "pokedex_number": 801,
+        "species": "magearna",
+        "name": "Magearna",
+        "forms": [
+            "magearna-original"
+        ]
+    },
+    {
+        "pokedex_number": 802,
+        "species": "marshadow",
+        "name": "Marshadow",
+        "forms": []
+    },
+    {
+        "pokedex_number": 803,
+        "species": "poipole",
+        "name": "Poipole",
+        "forms": []
+    },
+    {
+        "pokedex_number": 804,
+        "species": "naganadel",
+        "name": "Naganadel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 805,
+        "species": "stakataka",
+        "name": "Stakataka",
+        "forms": []
+    },
+    {
+        "pokedex_number": 806,
+        "species": "blacephalon",
+        "name": "Blacephalon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 807,
+        "species": "zeraora",
+        "name": "Zeraora",
+        "forms": []
+    },
+    {
+        "pokedex_number": 808,
+        "species": "meltan",
+        "name": "Meltan",
+        "forms": []
+    },
+    {
+        "pokedex_number": 809,
+        "species": "melmetal",
+        "name": "Melmetal",
+        "forms": [
+            "melmetal-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 810,
+        "species": "grookey",
+        "name": "Grookey",
+        "forms": []
+    },
+    {
+        "pokedex_number": 811,
+        "species": "thwackey",
+        "name": "Thwackey",
+        "forms": []
+    },
+    {
+        "pokedex_number": 812,
+        "species": "rillaboom",
+        "name": "Rillaboom",
+        "forms": [
+            "rillaboom-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 813,
+        "species": "scorbunny",
+        "name": "Scorbunny",
+        "forms": []
+    },
+    {
+        "pokedex_number": 814,
+        "species": "raboot",
+        "name": "Raboot",
+        "forms": []
+    },
+    {
+        "pokedex_number": 815,
+        "species": "cinderace",
+        "name": "Cinderace",
+        "forms": [
+            "cinderace-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 816,
+        "species": "sobble",
+        "name": "Sobble",
+        "forms": []
+    },
+    {
+        "pokedex_number": 817,
+        "species": "drizzile",
+        "name": "Drizzile",
+        "forms": []
+    },
+    {
+        "pokedex_number": 818,
+        "species": "inteleon",
+        "name": "Inteleon",
+        "forms": [
+            "inteleon-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 819,
+        "species": "skwovet",
+        "name": "Skwovet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 820,
+        "species": "greedent",
+        "name": "Greedent",
+        "forms": []
+    },
+    {
+        "pokedex_number": 821,
+        "species": "rookidee",
+        "name": "Rookidee",
+        "forms": []
+    },
+    {
+        "pokedex_number": 822,
+        "species": "corvisquire",
+        "name": "Corvisquire",
+        "forms": []
+    },
+    {
+        "pokedex_number": 823,
+        "species": "corviknight",
+        "name": "Corviknight",
+        "forms": [
+            "corviknight-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 824,
+        "species": "blipbug",
+        "name": "Blipbug",
+        "forms": []
+    },
+    {
+        "pokedex_number": 825,
+        "species": "dottler",
+        "name": "Dottler",
+        "forms": []
+    },
+    {
+        "pokedex_number": 826,
+        "species": "orbeetle",
+        "name": "Orbeetle",
+        "forms": [
+            "orbeetle-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 827,
+        "species": "nickit",
+        "name": "Nickit",
+        "forms": []
+    },
+    {
+        "pokedex_number": 828,
+        "species": "thievul",
+        "name": "Thievul",
+        "forms": []
+    },
+    {
+        "pokedex_number": 829,
+        "species": "gossifleur",
+        "name": "Gossifleur",
+        "forms": []
+    },
+    {
+        "pokedex_number": 830,
+        "species": "eldegoss",
+        "name": "Eldegoss",
+        "forms": []
+    },
+    {
+        "pokedex_number": 831,
+        "species": "wooloo",
+        "name": "Wooloo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 832,
+        "species": "dubwool",
+        "name": "Dubwool",
+        "forms": []
+    },
+    {
+        "pokedex_number": 833,
+        "species": "chewtle",
+        "name": "Chewtle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 834,
+        "species": "drednaw",
+        "name": "Drednaw",
+        "forms": [
+            "drednaw-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 835,
+        "species": "yamper",
+        "name": "Yamper",
+        "forms": []
+    },
+    {
+        "pokedex_number": 836,
+        "species": "boltund",
+        "name": "Boltund",
+        "forms": []
+    },
+    {
+        "pokedex_number": 837,
+        "species": "rolycoly",
+        "name": "Rolycoly",
+        "forms": []
+    },
+    {
+        "pokedex_number": 838,
+        "species": "carkol",
+        "name": "Carkol",
+        "forms": []
+    },
+    {
+        "pokedex_number": 839,
+        "species": "coalossal",
+        "name": "Coalossal",
+        "forms": [
+            "coalossal-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 840,
+        "species": "applin",
+        "name": "Applin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 841,
+        "species": "flapple",
+        "name": "Flapple",
+        "forms": [
+            "flapple-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 842,
+        "species": "appletun",
+        "name": "Appletun",
+        "forms": [
+            "appletun-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 843,
+        "species": "silicobra",
+        "name": "Silicobra",
+        "forms": []
+    },
+    {
+        "pokedex_number": 844,
+        "species": "sandaconda",
+        "name": "Sandaconda",
+        "forms": [
+            "sandaconda-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 845,
+        "species": "cramorant",
+        "name": "Cramorant",
+        "forms": [
+            "cramorant-gulping",
+            "cramorant-gorging"
+        ]
+    },
+    {
+        "pokedex_number": 846,
+        "species": "arrokuda",
+        "name": "Arrokuda",
+        "forms": []
+    },
+    {
+        "pokedex_number": 847,
+        "species": "barraskewda",
+        "name": "Barraskewda",
+        "forms": []
+    },
+    {
+        "pokedex_number": 848,
+        "species": "toxel",
+        "name": "Toxel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 849,
+        "species": "toxtricity",
+        "name": "Toxtricity",
+        "forms": [
+            "toxtricity-low-key",
+            "toxtricity-gmax",
+            "toxtricity-amped"
+        ],
+        "default": "toxtricity-amped"
+    },
+    {
+        "pokedex_number": 850,
+        "species": "sizzlipede",
+        "name": "Sizzlipede",
+        "forms": []
+    },
+    {
+        "pokedex_number": 851,
+        "species": "centiskorch",
+        "name": "Centiskorch",
+        "forms": [
+            "centiskorch-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 852,
+        "species": "clobbopus",
+        "name": "Clobbopus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 853,
+        "species": "grapploct",
+        "name": "Grapploct",
+        "forms": []
+    },
+    {
+        "pokedex_number": 854,
+        "species": "sinistea",
+        "name": "Sinistea",
+        "forms": [
+            "sinistea-phony",
+            "sinistea-antique"
+        ]
+    },
+    {
+        "pokedex_number": 855,
+        "species": "polteageist",
+        "name": "Polteageist",
+        "forms": [
+            "polteageist-phony",
+            "polteageist-antique"
+        ]
+    },
+    {
+        "pokedex_number": 856,
+        "species": "hatenna",
+        "name": "Hatenna",
+        "forms": []
+    },
+    {
+        "pokedex_number": 857,
+        "species": "hattrem",
+        "name": "Hattrem",
+        "forms": []
+    },
+    {
+        "pokedex_number": 858,
+        "species": "hatterene",
+        "name": "Hatterene",
+        "forms": [
+            "hatterene-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 859,
+        "species": "impidimp",
+        "name": "Impidimp",
+        "forms": []
+    },
+    {
+        "pokedex_number": 860,
+        "species": "morgrem",
+        "name": "Morgrem",
+        "forms": []
+    },
+    {
+        "pokedex_number": 861,
+        "species": "grimmsnarl",
+        "name": "Grimmsnarl",
+        "forms": [
+            "grimmsnarl-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 862,
+        "species": "obstagoon",
+        "name": "Obstagoon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 863,
+        "species": "perrserker",
+        "name": "Perrserker",
+        "forms": []
+    },
+    {
+        "pokedex_number": 864,
+        "species": "cursola",
+        "name": "Cursola",
+        "forms": []
+    },
+    {
+        "pokedex_number": 865,
+        "species": "sirfetchd",
+        "name": "Sirfetch’d",
+        "forms": []
+    },
+    {
+        "pokedex_number": 866,
+        "species": "mr-rime",
+        "name": "Mr. Rime",
+        "forms": []
+    },
+    {
+        "pokedex_number": 867,
+        "species": "runerigus",
+        "name": "Runerigus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 868,
+        "species": "milcery",
+        "name": "Milcery",
+        "forms": []
+    },
+    {
+        "pokedex_number": 869,
+        "species": "alcremie",
+        "name": "Alcremie",
+        "forms": [
+            "alcremie-vanilla-cream-strawberry-sweet",
+            "alcremie-ruby-cream-strawberry-sweet",
+            "alcremie-matcha-cream-strawberry-sweet",
+            "alcremie-mint-cream-strawberry-sweet",
+            "alcremie-lemon-cream-strawberry-sweet",
+            "alcremie-salted-cream-strawberry-sweet",
+            "alcremie-ruby-swirl-strawberry-sweet",
+            "alcremie-caramel-swirl-strawberry-sweet",
+            "alcremie-rainbow-swirl-strawberry-sweet",
+            "alcremie-vanilla-cream-berry-sweet",
+            "alcremie-ruby-cream-berry-sweet",
+            "alcremie-matcha-cream-berry-sweet",
+            "alcremie-mint-cream-berry-sweet",
+            "alcremie-lemon-cream-berry-sweet",
+            "alcremie-salted-cream-berry-sweet",
+            "alcremie-ruby-swirl-berry-sweet",
+            "alcremie-caramel-swirl-berry-sweet",
+            "alcremie-rainbow-swirl-berry-sweet",
+            "alcremie-vanilla-cream-love-sweet",
+            "alcremie-ruby-cream-love-sweet",
+            "alcremie-matcha-cream-love-sweet",
+            "alcremie-mint-cream-love-sweet",
+            "alcremie-lemon-cream-love-sweet",
+            "alcremie-salted-cream-love-sweet",
+            "alcremie-ruby-swirl-love-sweet",
+            "alcremie-caramel-swirl-love-sweet",
+            "alcremie-rainbow-swirl-love-sweet",
+            "alcremie-vanilla-cream-star-sweet",
+            "alcremie-ruby-cream-star-sweet",
+            "alcremie-matcha-cream-star-sweet",
+            "alcremie-mint-cream-star-sweet",
+            "alcremie-lemon-cream-star-sweet",
+            "alcremie-salted-cream-star-sweet",
+            "alcremie-ruby-swirl-star-sweet",
+            "alcremie-caramel-swirl-star-sweet",
+            "alcremie-rainbow-swirl-star-sweet",
+            "alcremie-vanilla-cream-clover-sweet",
+            "alcremie-ruby-cream-clover-sweet",
+            "alcremie-matcha-cream-clover-sweet",
+            "alcremie-mint-cream-clover-sweet",
+            "alcremie-lemon-cream-clover-sweet",
+            "alcremie-salted-cream-clover-sweet",
+            "alcremie-ruby-swirl-clover-sweet",
+            "alcremie-caramel-swirl-clover-sweet",
+            "alcremie-rainbow-swirl-clover-sweet",
+            "alcremie-vanilla-cream-flower-sweet",
+            "alcremie-ruby-cream-flower-sweet",
+            "alcremie-matcha-cream-flower-sweet",
+            "alcremie-mint-cream-flower-sweet",
+            "alcremie-lemon-cream-flower-sweet",
+            "alcremie-salted-cream-flower-sweet",
+            "alcremie-ruby-swirl-flower-sweet",
+            "alcremie-caramel-swirl-flower-sweet",
+            "alcremie-rainbow-swirl-flower-sweet",
+            "alcremie-vanilla-cream-ribbon-sweet",
+            "alcremie-ruby-cream-ribbon-sweet",
+            "alcremie-matcha-cream-ribbon-sweet",
+            "alcremie-mint-cream-ribbon-sweet",
+            "alcremie-lemon-cream-ribbon-sweet",
+            "alcremie-salted-cream-ribbon-sweet",
+            "alcremie-ruby-swirl-ribbon-sweet",
+            "alcremie-caramel-swirl-ribbon-sweet",
+            "alcremie-rainbow-swirl-ribbon-sweet",
+            "alcremie-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 870,
+        "species": "falinks",
+        "name": "Falinks",
+        "forms": []
+    },
+    {
+        "pokedex_number": 871,
+        "species": "pincurchin",
+        "name": "Pincurchin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 872,
+        "species": "snom",
+        "name": "Snom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 873,
+        "species": "frosmoth",
+        "name": "Frosmoth",
+        "forms": []
+    },
+    {
+        "pokedex_number": 874,
+        "species": "stonjourner",
+        "name": "Stonjourner",
+        "forms": []
+    },
+    {
+        "pokedex_number": 875,
+        "species": "eiscue",
+        "name": "Eiscue",
+        "forms": [
+            "eiscue-noice",
+            "eiscue-ice"
+        ],
+        "default": "eiscue-ice"
+    },
+    {
+        "pokedex_number": 876,
+        "species": "indeedee",
+        "name": "Indeedee",
+        "forms": [
+            "indeedee-female",
+            "indeedee-male"
+        ],
+        "default": "indeedee-male"
+    },
+    {
+        "pokedex_number": 877,
+        "species": "morpeko",
+        "name": "Morpeko",
+        "forms": [
+            "morpeko-hangry",
+            "morpeko-full-belly"
+        ],
+        "default": "morpeko-full-belly"
+    },
+    {
+        "pokedex_number": 878,
+        "species": "cufant",
+        "name": "Cufant",
+        "forms": []
+    },
+    {
+        "pokedex_number": 879,
+        "species": "copperajah",
+        "name": "Copperajah",
+        "forms": [
+            "copperajah-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 880,
+        "species": "dracozolt",
+        "name": "Dracozolt",
+        "forms": []
+    },
+    {
+        "pokedex_number": 881,
+        "species": "arctozolt",
+        "name": "Arctozolt",
+        "forms": []
+    },
+    {
+        "pokedex_number": 882,
+        "species": "dracovish",
+        "name": "Dracovish",
+        "forms": []
+    },
+    {
+        "pokedex_number": 883,
+        "species": "arctovish",
+        "name": "Arctovish",
+        "forms": []
+    },
+    {
+        "pokedex_number": 884,
+        "species": "duraludon",
+        "name": "Duraludon",
+        "forms": [
+            "duraludon-gmax"
+        ]
+    },
+    {
+        "pokedex_number": 885,
+        "species": "dreepy",
+        "name": "Dreepy",
+        "forms": []
+    },
+    {
+        "pokedex_number": 886,
+        "species": "drakloak",
+        "name": "Drakloak",
+        "forms": []
+    },
+    {
+        "pokedex_number": 887,
+        "species": "dragapult",
+        "name": "Dragapult",
+        "forms": []
+    },
+    {
+        "pokedex_number": 888,
+        "species": "zacian",
+        "name": "Zacian",
+        "forms": [
+            "zacian-crowned",
+            "zacian-hero"
+        ],
+        "default": "zacian-hero"
+    },
+    {
+        "pokedex_number": 889,
+        "species": "zamazenta",
+        "name": "Zamazenta",
+        "forms": [
+            "zamazenta-crowned",
+            "zamazenta-hero"
+        ],
+        "default": "zamazenta-hero"
+    },
+    {
+        "pokedex_number": 890,
+        "species": "eternatus",
+        "name": "Eternatus",
+        "forms": [
+            "eternatus-eternamax"
+        ]
+    },
+    {
+        "pokedex_number": 891,
+        "species": "kubfu",
+        "name": "Kubfu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 892,
+        "species": "urshifu",
+        "name": "Urshifu",
+        "forms": [
+            "urshifu-rapid-strike",
+            "urshifu-single-strike-gmax",
+            "urshifu-rapid-strike-gmax",
+            "urshifu-single-strike"
+        ],
+        "default": "urshifu-single-strike"
+    },
+    {
+        "pokedex_number": 893,
+        "species": "zarude",
+        "name": "Zarude",
+        "forms": [
+            "zarude-dada"
+        ]
+    },
+    {
+        "pokedex_number": 894,
+        "species": "regieleki",
+        "name": "Regieleki",
+        "forms": []
+    },
+    {
+        "pokedex_number": 895,
+        "species": "regidrago",
+        "name": "Regidrago",
+        "forms": []
+    },
+    {
+        "pokedex_number": 896,
+        "species": "glastrier",
+        "name": "Glastrier",
+        "forms": []
+    },
+    {
+        "pokedex_number": 897,
+        "species": "spectrier",
+        "name": "Spectrier",
+        "forms": []
+    },
+    {
+        "pokedex_number": 898,
+        "species": "calyrex",
+        "name": "Calyrex",
+        "forms": [
+            "calyrex-ice-rider",
+            "calyrex-shadow-rider"
+        ],
+        "default": "calyrex-rider"
+    },
+    {
+        "pokedex_number": 899,
+        "species": "wyrdeer",
+        "name": "Wyrdeer",
+        "forms": []
+    },
+    {
+        "pokedex_number": 900,
+        "species": "kleavor",
+        "name": "Kleavor",
+        "forms": []
+    },
+    {
+        "pokedex_number": 901,
+        "species": "ursaluna",
+        "name": "Ursaluna",
+        "forms": [
+            "ursaluna-bloodmoon"
+        ]
+    },
+    {
+        "pokedex_number": 902,
+        "species": "basculegion",
+        "name": "Basculegion",
+        "forms": [
+            "basculegion-female",
+            "basculegion-male"
+        ],
+        "default": "basculegion-male"
+    },
+    {
+        "pokedex_number": 903,
+        "species": "sneasler",
+        "name": "Sneasler",
+        "forms": []
+    },
+    {
+        "pokedex_number": 904,
+        "species": "overqwil",
+        "name": "Overqwil",
+        "forms": []
+    },
+    {
+        "pokedex_number": 905,
+        "species": "enamorus",
+        "name": "Enamorus",
+        "forms": [
+            "enamorus-therian",
+            "enamorus-incarnate"
+        ],
+        "default": "enamorus-incarnate"
+    },
+    {
+        "pokedex_number": 906,
+        "species": "sprigatito",
+        "name": "Sprigatito",
+        "forms": []
+    },
+    {
+        "pokedex_number": 907,
+        "species": "floragato",
+        "name": "Floragato",
+        "forms": []
+    },
+    {
+        "pokedex_number": 908,
+        "species": "meowscarada",
+        "name": "Meowscarada",
+        "forms": []
+    },
+    {
+        "pokedex_number": 909,
+        "species": "fuecoco",
+        "name": "Fuecoco",
+        "forms": []
+    },
+    {
+        "pokedex_number": 910,
+        "species": "crocalor",
+        "name": "Crocalor",
+        "forms": []
+    },
+    {
+        "pokedex_number": 911,
+        "species": "skeledirge",
+        "name": "Skeledirge",
+        "forms": []
+    },
+    {
+        "pokedex_number": 912,
+        "species": "quaxly",
+        "name": "Quaxly",
+        "forms": []
+    },
+    {
+        "pokedex_number": 913,
+        "species": "quaxwell",
+        "name": "Quaxwell",
+        "forms": []
+    },
+    {
+        "pokedex_number": 914,
+        "species": "quaquaval",
+        "name": "Quaquaval",
+        "forms": []
+    },
+    {
+        "pokedex_number": 915,
+        "species": "lechonk",
+        "name": "Lechonk",
+        "forms": []
+    },
+    {
+        "pokedex_number": 916,
+        "species": "oinkologne",
+        "name": "Oinkologne",
+        "forms": [
+            "oinkologne-female"
+        ]
+    },
+    {
+        "pokedex_number": 917,
+        "species": "tarountula",
+        "name": "Tarountula",
+        "forms": []
+    },
+    {
+        "pokedex_number": 918,
+        "species": "spidops",
+        "name": "Spidops",
+        "forms": []
+    },
+    {
+        "pokedex_number": 919,
+        "species": "nymble",
+        "name": "Nymble",
+        "forms": []
+    },
+    {
+        "pokedex_number": 920,
+        "species": "lokix",
+        "name": "Lokix",
+        "forms": []
+    },
+    {
+        "pokedex_number": 921,
+        "species": "pawmi",
+        "name": "Pawmi",
+        "forms": []
+    },
+    {
+        "pokedex_number": 922,
+        "species": "pawmo",
+        "name": "Pawmo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 923,
+        "species": "pawmot",
+        "name": "Pawmot",
+        "forms": []
+    },
+    {
+        "pokedex_number": 924,
+        "species": "tandemaus",
+        "name": "Tandemaus",
+        "forms": []
+    },
+    {
+        "pokedex_number": 925,
+        "species": "maushold",
+        "name": "Maushold",
+        "forms": [
+            "maushold-family-of-three"
+        ]
+    },
+    {
+        "pokedex_number": 926,
+        "species": "fidough",
+        "name": "Fidough",
+        "forms": []
+    },
+    {
+        "pokedex_number": 927,
+        "species": "dachsbun",
+        "name": "Dachsbun",
+        "forms": []
+    },
+    {
+        "pokedex_number": 928,
+        "species": "smoliv",
+        "name": "Smoliv",
+        "forms": []
+    },
+    {
+        "pokedex_number": 929,
+        "species": "dolliv",
+        "name": "Dolliv",
+        "forms": []
+    },
+    {
+        "pokedex_number": 930,
+        "species": "arboliva",
+        "name": "Arboliva",
+        "forms": []
+    },
+    {
+        "pokedex_number": 931,
+        "species": "squawkabilly",
+        "name": "Squawkabilly",
+        "forms": [
+            "squawkabilly-blue-plumage",
+            "squawkabilly-yellow-plumage",
+            "squawkabilly-white-plumage"
+        ]
+    },
+    {
+        "pokedex_number": 932,
+        "species": "nacli",
+        "name": "Nacli",
+        "forms": []
+    },
+    {
+        "pokedex_number": 933,
+        "species": "naclstack",
+        "name": "Naclstack",
+        "forms": []
+    },
+    {
+        "pokedex_number": 934,
+        "species": "garganacl",
+        "name": "Garganacl",
+        "forms": []
+    },
+    {
+        "pokedex_number": 935,
+        "species": "charcadet",
+        "name": "Charcadet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 936,
+        "species": "armarouge",
+        "name": "Armarouge",
+        "forms": []
+    },
+    {
+        "pokedex_number": 937,
+        "species": "ceruledge",
+        "name": "Ceruledge",
+        "forms": []
+    },
+    {
+        "pokedex_number": 938,
+        "species": "tadbulb",
+        "name": "Tadbulb",
+        "forms": []
+    },
+    {
+        "pokedex_number": 939,
+        "species": "bellibolt",
+        "name": "Bellibolt",
+        "forms": []
+    },
+    {
+        "pokedex_number": 940,
+        "species": "wattrel",
+        "name": "Wattrel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 941,
+        "species": "kilowattrel",
+        "name": "Kilowattrel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 942,
+        "species": "maschiff",
+        "name": "Maschiff",
+        "forms": []
+    },
+    {
+        "pokedex_number": 943,
+        "species": "mabosstiff",
+        "name": "Mabosstiff",
+        "forms": []
+    },
+    {
+        "pokedex_number": 944,
+        "species": "shroodle",
+        "name": "Shroodle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 945,
+        "species": "grafaiai",
+        "name": "Grafaiai",
+        "forms": []
+    },
+    {
+        "pokedex_number": 946,
+        "species": "bramblin",
+        "name": "Bramblin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 947,
+        "species": "brambleghast",
+        "name": "Brambleghast",
+        "forms": []
+    },
+    {
+        "pokedex_number": 948,
+        "species": "toedscool",
+        "name": "Toedscool",
+        "forms": []
+    },
+    {
+        "pokedex_number": 949,
+        "species": "toedscruel",
+        "name": "Toedscruel",
+        "forms": []
+    },
+    {
+        "pokedex_number": 950,
+        "species": "klawf",
+        "name": "Klawf",
+        "forms": []
+    },
+    {
+        "pokedex_number": 951,
+        "species": "capsakid",
+        "name": "Capsakid",
+        "forms": []
+    },
+    {
+        "pokedex_number": 952,
+        "species": "scovillain",
+        "name": "Scovillain",
+        "forms": []
+    },
+    {
+        "pokedex_number": 953,
+        "species": "rellor",
+        "name": "Rellor",
+        "forms": []
+    },
+    {
+        "pokedex_number": 954,
+        "species": "rabsca",
+        "name": "Rabsca",
+        "forms": []
+    },
+    {
+        "pokedex_number": 955,
+        "species": "flittle",
+        "name": "Flittle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 956,
+        "species": "espathra",
+        "name": "Espathra",
+        "forms": []
+    },
+    {
+        "pokedex_number": 957,
+        "species": "tinkatink",
+        "name": "Tinkatink",
+        "forms": []
+    },
+    {
+        "pokedex_number": 958,
+        "species": "tinkatuff",
+        "name": "Tinkatuff",
+        "forms": []
+    },
+    {
+        "pokedex_number": 959,
+        "species": "tinkaton",
+        "name": "Tinkaton",
+        "forms": []
+    },
+    {
+        "pokedex_number": 960,
+        "species": "wiglett",
+        "name": "Wiglett",
+        "forms": []
+    },
+    {
+        "pokedex_number": 961,
+        "species": "wugtrio",
+        "name": "Wugtrio",
+        "forms": []
+    },
+    {
+        "pokedex_number": 962,
+        "species": "bombirdier",
+        "name": "Bombirdier",
+        "forms": []
+    },
+    {
+        "pokedex_number": 963,
+        "species": "finizen",
+        "name": "Finizen",
+        "forms": []
+    },
+    {
+        "pokedex_number": 964,
+        "species": "palafin",
+        "name": "Palafin",
+        "forms": [
+            "palafin-hero"
+        ]
+    },
+    {
+        "pokedex_number": 965,
+        "species": "varoom",
+        "name": "Varoom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 966,
+        "species": "revavroom",
+        "name": "Revavroom",
+        "forms": []
+    },
+    {
+        "pokedex_number": 967,
+        "species": "cyclizar",
+        "name": "Cyclizar",
+        "forms": []
+    },
+    {
+        "pokedex_number": 968,
+        "species": "orthworm",
+        "name": "Orthworm",
+        "forms": []
+    },
+    {
+        "pokedex_number": 969,
+        "species": "glimmet",
+        "name": "Glimmet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 970,
+        "species": "glimmora",
+        "name": "Glimmora",
+        "forms": []
+    },
+    {
+        "pokedex_number": 971,
+        "species": "greavard",
+        "name": "Greavard",
+        "forms": []
+    },
+    {
+        "pokedex_number": 972,
+        "species": "houndstone",
+        "name": "Houndstone",
+        "forms": []
+    },
+    {
+        "pokedex_number": 973,
+        "species": "flamigo",
+        "name": "Flamigo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 974,
+        "species": "cetoddle",
+        "name": "Cetoddle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 975,
+        "species": "cetitan",
+        "name": "Cetitan",
+        "forms": []
+    },
+    {
+        "pokedex_number": 976,
+        "species": "veluza",
+        "name": "Veluza",
+        "forms": []
+    },
+    {
+        "pokedex_number": 977,
+        "species": "dondozo",
+        "name": "Dondozo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 978,
+        "species": "tatsugiri",
+        "name": "Tatsugiri",
+        "forms": [
+            "tatsugiri-droopy",
+            "tatsugiri-stretchy"
+        ]
+    },
+    {
+        "pokedex_number": 979,
+        "species": "annihilape",
+        "name": "Annihilape",
+        "forms": []
+    },
+    {
+        "pokedex_number": 980,
+        "species": "clodsire",
+        "name": "Clodsire",
+        "forms": []
+    },
+    {
+        "pokedex_number": 981,
+        "species": "farigiraf",
+        "name": "Farigiraf",
+        "forms": []
+    },
+    {
+        "pokedex_number": 982,
+        "species": "dudunsparce",
+        "name": "Dudunsparce",
+        "forms": [
+            "dudunsparce-three-segment"
+        ]
+    },
+    {
+        "pokedex_number": 983,
+        "species": "kingambit",
+        "name": "Kingambit",
+        "forms": []
+    },
+    {
+        "pokedex_number": 984,
+        "species": "great-tusk",
+        "name": "Great Tusk",
+        "forms": []
+    },
+    {
+        "pokedex_number": 985,
+        "species": "scream-tail",
+        "name": "Scream Tail",
+        "forms": []
+    },
+    {
+        "pokedex_number": 986,
+        "species": "brute-bonnet",
+        "name": "Brute Bonnet",
+        "forms": []
+    },
+    {
+        "pokedex_number": 987,
+        "species": "flutter-mane",
+        "name": "Flutter Mane",
+        "forms": []
+    },
+    {
+        "pokedex_number": 988,
+        "species": "slither-wing",
+        "name": "Slither Wing",
+        "forms": []
+    },
+    {
+        "pokedex_number": 989,
+        "species": "sandy-shocks",
+        "name": "Sandy Shocks",
+        "forms": []
+    },
+    {
+        "pokedex_number": 990,
+        "species": "iron-treads",
+        "name": "Iron Treads",
+        "forms": []
+    },
+    {
+        "pokedex_number": 991,
+        "species": "iron-bundle",
+        "name": "Iron Bundle",
+        "forms": []
+    },
+    {
+        "pokedex_number": 992,
+        "species": "iron-hands",
+        "name": "Iron Hands",
+        "forms": []
+    },
+    {
+        "pokedex_number": 993,
+        "species": "iron-jugulis",
+        "name": "Iron Jugulis",
+        "forms": []
+    },
+    {
+        "pokedex_number": 994,
+        "species": "iron-moth",
+        "name": "Iron Moth",
+        "forms": []
+    },
+    {
+        "pokedex_number": 995,
+        "species": "iron-thorns",
+        "name": "Iron Thorns",
+        "forms": []
+    },
+    {
+        "pokedex_number": 996,
+        "species": "frigibax",
+        "name": "Frigibax",
+        "forms": []
+    },
+    {
+        "pokedex_number": 997,
+        "species": "arctibax",
+        "name": "Arctibax",
+        "forms": []
+    },
+    {
+        "pokedex_number": 998,
+        "species": "baxcalibur",
+        "name": "Baxcalibur",
+        "forms": []
+    },
+    {
+        "pokedex_number": 999,
+        "species": "gimmighoul",
+        "name": "Gimmighoul",
+        "forms": [
+            "gimmighoul-chest",
+            "gimmighoul-roaming"
+        ],
+        "default": "gimmighoul-chest"
+    },
+    {
+        "pokedex_number": 1000,
+        "species": "gholdengo",
+        "name": "Gholdengo",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1001,
+        "species": "wo-chien",
+        "name": "Wo-Chien",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1002,
+        "species": "chien-pao",
+        "name": "Chien-Pao",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1003,
+        "species": "ting-lu",
+        "name": "Ting-Lu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1004,
+        "species": "chi-yu",
+        "name": "Chi-Yu",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1005,
+        "species": "roaring-moon",
+        "name": "Roaring Moon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1006,
+        "species": "iron-valiant",
+        "name": "Iron Valiant",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1007,
+        "species": "koraidon",
+        "name": "Koraidon",
+        "forms": [
+            "koraidon-apex-build",
+            "koraidon-limited-build",
+            "koraidon-sprinting-build",
+            "koraidon-swimming-build",
+            "koraidon-gliding-build"
+        ]
+    },
+    {
+        "pokedex_number": 1008,
+        "species": "miraidon",
+        "name": "Miraidon",
+        "forms": [
+            "miraidon-ultimate-mode",
+            "miraidon-low-power-mode",
+            "miraidon-drive-mode",
+            "miraidon-aquatic-mode",
+            "miraidon-glide-mode"
+        ]
+    },
+    {
+        "pokedex_number": 1009,
+        "species": "walking-wake",
+        "name": "Walking Wake",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1010,
+        "species": "iron-leaves",
+        "name": "Iron Leaves",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1011,
+        "species": "dipplin",
+        "name": "Dipplin",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1012,
+        "species": "poltchageist",
+        "name": "Poltchageist",
+        "forms": [
+            "poltchageist-counterfeit",
+            "poltchageist-artisan"
+        ]
+    },
+    {
+        "pokedex_number": 1013,
+        "species": "sinistcha",
+        "name": "Sinistcha",
+        "forms": [
+            "sinistcha-unremarkable",
+            "sinistcha-masterpiece"
+        ]
+    },
+    {
+        "pokedex_number": 1014,
+        "species": "okidogi",
+        "name": "Okidogi",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1015,
+        "species": "munkidori",
+        "name": "Munkidori",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1016,
+        "species": "fezandipiti",
+        "name": "Fezandipiti",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1017,
+        "species": "ogerpon",
+        "name": "Ogerpon",
+        "forms": [
+            "ogerpon-wellspring-mask",
+            "ogerpon-hearthflame-mask",
+            "ogerpon-cornerstone-mask",
+            "ogerpon-teal-mask"
+        ],
+        "default": "ogerpon-teal-mask"
+    },
+    {
+        "pokedex_number": 1018,
+        "species": "archaludon",
+        "name": "Archaludon",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1019,
+        "species": "hydrapple",
+        "name": "Hydrapple",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1020,
+        "species": "gouging-fire",
+        "name": "Gouging Fire",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1021,
+        "species": "raging-bolt",
+        "name": "Raging Bolt",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1022,
+        "species": "iron-boulder",
+        "name": "Iron Boulder",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1023,
+        "species": "iron-crown",
+        "name": "Iron Crown",
+        "forms": []
+    },
+    {
+        "pokedex_number": 1024,
+        "species": "terapagos",
+        "name": "Terapagos",
+        "forms": [
+            "terapagos-terastal",
+            "terapagos-stellar"
+        ]
+    },
+    {
+        "pokedex_number": 1025,
+        "species": "pecharunt",
+        "name": "Pecharunt",
+        "forms": []
+    }
+]
